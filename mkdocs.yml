@@ -1,0 +1,9 @@
+site_name: 2022-2 MeasureSoftGram
+repo_url: https://github.com/fga-eps-mds/2022-2-MeasureSoftGram-Doc
+
+theme:
+  name: material
+  features: navigation.tabs
+
+nav:
+  - Home: index.html
