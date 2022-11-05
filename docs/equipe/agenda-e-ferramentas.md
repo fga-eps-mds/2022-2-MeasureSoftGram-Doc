@@ -70,3 +70,13 @@ Versão|Data|Descrição|Autor(es)
 </table>
 
 ## 4. Gráfico de Gantt
+
+<p align="justify" style="text-indent: 20px">
+    Como uma forma de documentar e controlar o cronograma do projeto de forma visual, o Diagrama de Gantt [1] foi escolhido. Essa ferramenta permite a equipe avaliar os prazos de entrega, identificando as tarefas que precisam ser realizadas, suas datas de início e a quantidade de dias planejados para sua execução. A seguir se encontra o gráfico de Gantt 
+</p>
+
+<!-- Link do docs: https://docs.google.com/spreadsheets/d/12dvH6cImAL7deYCg0QH1KWBjoLc0f6ftNfTULV4i1ww/edit?usp=sharing -->
+<iframe style="width: 100%; height: 500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRioRBuw2EFBREHhLzBJCT4aGC4ebs4IDfs_Uz8x8ro0LDuyqS-aLWiR0gWr054BjuC0LD9DE3CRrud/pubhtml?widget=true&amp;headers=false"></iframe>
+
+## 5. Referências
+> [1] Gantt. H. L. (1910). "Work, Wages and Profit". Engineering Magazine. New York.
