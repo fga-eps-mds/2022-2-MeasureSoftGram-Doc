@@ -7,3 +7,11 @@ theme:
 
 nav:
   - Home: index.html
+  - Equipe:
+    - Agenda e Ferramentas: equipe/agenda-e-ferramentas.md
+  # - Contribuição:
+  #   - 
+  # - Visão de Produto:
+  #   - 
+  # - Plano e Monitoramento:
+  #   - 
