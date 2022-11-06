@@ -6,11 +6,12 @@ Versão|Data|Descrição|Autor(es)
 1.0   | 05/11/2022 | Adição do tópico Objetivo | João Pedro
 1.1   | 05/11/2022 | Adição e documentação das Ferramentas | João Pedro
 2.0   | 05/11/2022 | Adição e criação do quadro de gantt | João Pedro
+2.1   | 06/11/2022 | Fix de erro de digitação e complemento de objetivo | Lucas Melo
 
 ## 2. Objetivo
 
 <p align="justify" style="text-indent: 20px">
-    Esse documento tem como objetivo principal documentar, organizar e definir as principais ferramentas de desenvolvimento e comunicação utilizadas pela equipe e pelos <i>stakeholders</i>, durante o curso do projeto. Além disso, nesse arquivo também consta um cronograma iterativo das atividades que estarão sendo realidas.
+    Esse documento tem como objetivo principal documentar, organizar e definir as principais ferramentas de desenvolvimento e comunicação utilizadas pela equipe e pelos <i>stakeholders</i>, durante o curso do projeto. Além disso, nesse arquivo também consta um cronograma iterativo das atividades que estarão sendo realizada, seguindo o estilo de inception Lean Inception, de Martin Fowler.
 </p>
 
 ## 3. Ferramentas
@@ -72,7 +73,7 @@ Versão|Data|Descrição|Autor(es)
 ## 4. Gráfico de Gantt
 
 <p align="justify" style="text-indent: 20px">
-    Como uma forma de documentar e controlar o cronograma do projeto de forma visual, o Diagrama de Gantt [1] foi escolhido. Essa ferramenta permite a equipe avaliar os prazos de entrega, identificando as tarefas que precisam ser realizadas, suas datas de início e a quantidade de dias planejados para sua execução. A seguir se encontra o gráfico de Gantt 
+    Como uma forma de documentar e controlar o cronograma do projeto de forma visual, o Diagrama de Gantt [1] foi escolhido. Essa ferramenta permite a equipe avaliar os prazos de entrega, identificando as tarefas que precisam ser realizadas, suas datas de início e a quantidade de dias planejados para sua execução. A seguir se encontra o gráfico de Gantt
 </p>
 
 <!-- Link do docs: https://docs.google.com/spreadsheets/d/12dvH6cImAL7deYCg0QH1KWBjoLc0f6ftNfTULV4i1ww/edit?usp=sharing -->
