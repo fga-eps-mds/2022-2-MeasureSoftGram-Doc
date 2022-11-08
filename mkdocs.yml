@@ -9,6 +9,7 @@ nav:
   - Home: index.html
   - Equipe:
     - Agenda e Ferramentas: equipe/agenda-e-ferramentas.md
+    - Conhecimento e Disponibilidade: equipe/conhecimento-e-disponibilidade.md
   # - Contribuição:
   #   - 
   # - Visão de Produto:
