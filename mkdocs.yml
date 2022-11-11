@@ -9,8 +9,8 @@ nav:
   - Home: index.html
   - Equipe:
     - Agenda e Ferramentas: equipe/agenda-e-ferramentas.md
-  # - Contribuição:
-  #   - 
+  - Contribuição: 
+    - Como contribuir?: policies/contributing.md
   # - Visão de Produto:
   #   - 
   # - Plano e Monitoramento:
