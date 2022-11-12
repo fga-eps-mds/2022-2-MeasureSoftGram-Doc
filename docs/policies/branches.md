@@ -4,22 +4,26 @@
 
 Data|Versão|Descrição|Autor
 -|-|-|-
-10/11/2022|1.0|Abertura do documento com tópicos iniciais (1,2,3,4) |Rafael|
+10/11/2022|1.0|Abertura do documento |Rafael|
+10/11/2022|1.0|Adição de introdução e do fluxo de trabalho|Rafael|
+10/11/2022|1.0|Adição do tópico de branches e referências|Rafael|
+12/11/2022|1.0|Revisão do documento |Nilvan|
+12/11/2022|1.0|Retiradas da tag "< a>", que modificavam cor dos tópicos |Nilvan|
 
 ---
 
-## 1. <a name="1">Introdução</a>
+## 1. Introdução
 <p align = "justify"> &emsp; Esse documento tem por objetivo padronizar a criação de branches nos repositório do MeasureSoftGram. Dessa forma, orientando a criação das ramificações do Git. </p>
 
 ---
 
-## 2. <a name="2">Fluxo de trabalho</a>
+## 2. Fluxo de trabalho
 <p align = "justify"> &emsp; O fluxo de trabalho utilizado é o Gitflow Workflow [1]. Este é um modelo alternativo que traz uma ideia abstrata do fluxo de trabalho Git, orientando os tipos de ramificações e como fazer o merge. Basicamente, são criadas as ramificações de recurso ou funcionalidade, o que possibilita retardar o merge com a ramificação do tronco principal até as necessidades definidas no escopo para lançamento de uma versão [2]. Este fluxo de trabalho auxilia um software baseado em lançamento de versões, além de oferecer a possibilidade de consertar erros identificados em produção através de hotfixes. As ramificações são explicadas abaixo.</p>
 
 ---
 
-## 3. <a name="3">Tipos de Branches</a>
-### 3.1 <a name="3.1">Main ou Master</a>
+## 3. Tipos de Branches
+### 3.1 Main ou Master
 <p align = "justify"> &emsp; Essa é a branch que contém o código mais estável do MeasureSoftGram, ou seja, o tronco principal. Tudo que o usuário consome da versão em produção se encontra nela. As diretrizes dela são:</p>
 
 * Só existe <b>uma main/master</b> no projeto;
@@ -27,14 +31,14 @@ Data|Versão|Descrição|Autor
 * Mudanças nela só ocorrem por meio de pull requests das branches <b>release</b> ou <b>hotfix</b>.
 * Em caso de repositório de documentação, aceita pull requests da branch <b>document</b>
 
-### 3.3 <a name="3.3">Develop</a>
+### 3.3 Develop
 <p align = "justify"> &emsp; Destinada ao desenvolvimento do projeto. Ou seja, toda novidade está nessa branch. Suas diretrizes são:</p>
 
 * Só existe uma branch <b>develop</b> no projeto;
 * Deve ser sincronizada com todas as outras branches;
 * Deve ser derivada da main/master.
 
-### 3.3 <a name="3.3">Document</a>
+### 3.3 Document
 <p align = "justify"> &emsp; Destinada à criação e manutenção dos documentos do projeto, ou seja, toda alteração no repositório de Doc do MeasureSoftGram, local principal dos documentos, passa por essa branch. Algumas regras diferem para esse tipo de branch, devido a própria natureza do repositório de documentação, o que implica:</p>
 
 * Deve ser derivada da <b>main/master</b>;
@@ -56,7 +60,7 @@ document/issueID-Nome_da_Funcionalidade
 document/#88-Atualizar_Roadmap
 ```
 
-### 3.4 <a name="3.4">Feature</a>
+### 3.4 Feature
 <p align = "justify"> &emsp; Destinada à criação de uma nova funcionalidades ao projeto. Diretrizes:</p>
 
 * Deve ser derivada da <b>develop</b>
@@ -79,7 +83,7 @@ feature/#55-Criar_Feed_de_Notícias
 ```
 
 
-### 3.5 <a name="3.5">Release</a>
+### 3.5 Release
 <p align = "justify"> &emsp; Branch que contém um conjunto de funcionalidades que podem ser implementadas na <b>main/master</b>. Diretrizes:</p>
 
 * Deve ser derivada da <b>develop</b>;
@@ -102,7 +106,7 @@ release/vNúmero.Número.Número
 release/v1.0.0
 ```
 
-### 3.6 <a name="3.6">Bugfix</a>
+### 3.6 Bugfix
 <p align = "justify"> &emsp; Branch destinada a resolver problemas como bugs e erros presentes na <b>release</b>. Diretrizes:</p>
 
 * Deve ser derivada da <b>release</b>;
@@ -124,7 +128,7 @@ bugfix/issueID-Nome_do_bugfix
 bugfix/#89-Resolver_Feed_de_Noticias
 ```
 
-### 3.7 <a name="3.7">Hotfix</a>
+### 3.7 Hotfix
 <p align = "justify"> &emsp; Destinada a resolver problemas urgentes na <b>master</b>. Diretrizes:</p>
 
 * Deve ser derivada da <b>master</b>;
@@ -148,7 +152,7 @@ hotfix/v1.0.1
 
 ---
 
-## 4. <a nome="3">Referências</a>
+## 4. Referências
 
 > [1] DRIESSEN, Vincent. A successful Git branching model. [S. l.], 5 jan. 2010. Disponível em: <a href="https://nvie.com/posts/a-successful-git-branching-model/">https://nvie.com/posts/a-successful-git-branching-model/</a>. Acesso em: 10 nov. 2022.
 
