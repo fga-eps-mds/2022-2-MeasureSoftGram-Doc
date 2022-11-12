@@ -4,11 +4,11 @@
 
 Data|Versão|Descrição|Autor
 -|-|-|-
-10/11/2022|1.0|Abertura do documento |Rafael|
+10/11/2022|0.1|Abertura do documento |Rafael|
 10/11/2022|1.0|Adição de introdução e do fluxo de trabalho|Rafael|
-10/11/2022|1.0|Adição do tópico de branches e referências|Rafael|
-12/11/2022|1.0|Revisão do documento |Nilvan|
-12/11/2022|1.0|Retiradas da tag "< a>", que modificavam cor dos tópicos |Nilvan|
+10/11/2022|1.1|Adição do tópico de branches e referências|Rafael|
+12/11/2022|1.2|Revisão do documento |Nilvan|
+12/11/2022|1.3|Retiradas da tag "< a>", que modificavam cor dos tópicos |Nilvan|
 
 ---
 

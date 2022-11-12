@@ -4,9 +4,9 @@
 
 Deseja Contribuir? Certifique-se de que está seguindo as políticas do nosso projeto:
 
-* Esteja atento ao [Código de conduta](../CODE_OF_CONDUCT.md) do projeto.
-* Os commits seguem a [política de commits](/policies/commits).
-* As branches seguem a [política de branches](/policies/branches).
+* Esteja atento ao [Código de conduta](../politicas/CODE_OF_CONDUCT.md) do projeto.
+* Os commits seguem a [política de commits](/politicas/commits).
+* As branches seguem a [política de branches](/politicas/branches).
 * Os critérios de aceitação foram cumpridos.
 * Foram realizados testes (sendo o caso) que cobrem as funcionalidades a serem entregues.
 
