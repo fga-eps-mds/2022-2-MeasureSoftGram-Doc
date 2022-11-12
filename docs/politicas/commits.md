@@ -6,7 +6,7 @@ Data|Versão|Descrição|Autor
 -|-|-|-
 10/11/2022|1.0|Abertura do documento com template inicial|Rafael|
 12/11/2022|1.1|Adição do commit em inglês para repositórios de desenvolvimento de código|Rafael|
-
+12/11/2022|1.2|Adição do commit de hotfix|Rafael|
 ---
 
 ## Políticas de Commits
@@ -16,7 +16,7 @@ Data|Versão|Descrição|Autor
 <ul>
     <li> Devem estar escritos em português. </li>
     <li> Os verbos devem estar no gerúndio. </li>
-    <li> Devem apresentar o número base da issue. </li>
+    <li> Devem apresentar o número base da issue ou começar com hotfix. </li>
 </ul>
 
 &emsp;Portanto a formatação do commit será: ` #2 Corrigindo imagem quebrada no documento de visão `
@@ -47,7 +47,7 @@ e torná-lo um arquivo executável com o comando `chmod +x pre-commit`.
 <ul>
     <li> Devem estar escritos em inglês. </li>
     <li> Os verbos devem estar no gerúndio. </li>
-    <li> Devem apresentar o número base da issue </li>
+    <li> Devem apresentar o número base da issue ou começar com hotfix. </li>
 </ul>
 
 &emsp;Portanto a formatação do commit será: ` #45 Adding name field in login form `>
