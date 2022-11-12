@@ -6,7 +6,6 @@ Versão|Data|Descrição|Autor(es)
 1.0   | 07/11/2022 | Adição dos objetivos e do Heatmap | João Pedro
 1.1   | 07/11/2022 | Adição do quadro iterativo de conhecimentos| João Pedro
 1.2   | 12/11/2022 | Revisão do documento, adição de hyperlink para visualização de quadros| Nilvan
-1.3   | 12/11/2022 | Mudança da disposição na navegação de Contribuição para Equipe| Rafael
 
 ## 2. Objetivo
 

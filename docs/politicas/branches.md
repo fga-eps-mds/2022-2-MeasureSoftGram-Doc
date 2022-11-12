@@ -11,17 +11,11 @@ Data|Versão|Descrição|Autor
 12/11/2022|1.3|Retiradas da tag "< a>", que modificavam cor dos tópicos |Nilvan|
 12/11/2022|1.3|Correção do tópico de hotfix |Rafael|
 
----
-
 ## 1. Introdução
 <p align = "justify"> &emsp; Esse documento tem por objetivo padronizar a criação de branches nos repositório do MeasureSoftGram. Dessa forma, orientando a criação das ramificações do Git. </p>
 
----
-
 ## 2. Fluxo de trabalho
 <p align = "justify"> &emsp; O fluxo de trabalho utilizado é o Gitflow Workflow [1]. Este é um modelo alternativo que traz uma ideia abstrata do fluxo de trabalho Git, orientando os tipos de ramificações e como fazer o merge. Basicamente, são criadas as ramificações de recurso ou funcionalidade, o que possibilita retardar o merge com a ramificação do tronco principal até as necessidades definidas no escopo para lançamento de uma versão [2]. Este fluxo de trabalho auxilia um software baseado em lançamento de versões, além de oferecer a possibilidade de consertar erros identificados em produção através de hotfixes. As ramificações são explicadas abaixo.</p>
-
----
 
 ## 3. Tipos de Branches
 ### 3.1 Main ou Master
@@ -82,7 +76,6 @@ feature/issueID-Nome_da_Funcionalidade
 ```
 feature/#55-Criar_Feed_de_Notícias
 ```
-
 
 ### 3.5 Release
 <p align = "justify"> &emsp; Branch que contém um conjunto de funcionalidades que podem ser implementadas na <b>main/master</b>. Diretrizes:</p>
@@ -167,8 +160,6 @@ hotfix/v1.0.1
 ```
 hotfix/guia_contribuicao
 ```
-
----
 
 ## 4. Referências
 

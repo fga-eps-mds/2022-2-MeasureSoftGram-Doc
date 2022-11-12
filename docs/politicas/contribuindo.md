@@ -1,7 +1,5 @@
 # Como Contribuir
 
----
-
 Deseja Contribuir? Certifique-se de que está seguindo as políticas do nosso projeto:
 
 * Esteja atento ao [Código de conduta](../politicas/CODE_OF_CONDUCT.md) do projeto.
@@ -10,14 +8,10 @@ Deseja Contribuir? Certifique-se de que está seguindo as políticas do nosso pr
 * Os critérios de aceitação foram cumpridos.
 * Foram realizados testes (sendo o caso) que cobrem as funcionalidades a serem entregues.
 
----
-
 ## Processo de Criação de Issues
 
 1. Verifique se não existe issue que já atenda o que você pretender colocar.
 2. Elabore a issue de acordo com os templates disponíveis em [template de issues](https://github.com/fga-eps-mds/2022-2-MeasureSoftGram-Doc/blob/main/.github/ISSUE_TEMPLATE).
-
----
 
 ## Processo de Criação de Pull Requests
 
@@ -25,6 +19,4 @@ Deseja Contribuir? Certifique-se de que está seguindo as políticas do nosso pr
 2. Ao criar o Pull Request, siga o [template de pull requests](https://github.com/fga-eps-mds/2022-2-MeasureSoftGram-Doc/blob/main/.github/PULL_REQUEST_TEMPLATE.md).
 3. Após criado o Pull Request, um dos mantenedores do projeto fará o processo de revisão dele.
 
----
-
-### Agradecemos a contribuição! ❤️
+## Agradecemos a contribuição! ❤️
