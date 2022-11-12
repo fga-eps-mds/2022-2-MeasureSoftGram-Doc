@@ -9,18 +9,13 @@ Data|Versão|Descrição|Autor
 10/11/2022|1.1|Adição do tópico de branches e referências|Rafael|
 12/11/2022|1.2|Revisão do documento |Nilvan|
 12/11/2022|1.3|Retiradas da tag "< a>", que modificavam cor dos tópicos |Nilvan|
-
----
+12/11/2022|1.3|Correção do tópico de hotfix |Rafael|
 
 ## 1. Introdução
 <p align = "justify"> &emsp; Esse documento tem por objetivo padronizar a criação de branches nos repositório do MeasureSoftGram. Dessa forma, orientando a criação das ramificações do Git. </p>
 
----
-
 ## 2. Fluxo de trabalho
 <p align = "justify"> &emsp; O fluxo de trabalho utilizado é o Gitflow Workflow [1]. Este é um modelo alternativo que traz uma ideia abstrata do fluxo de trabalho Git, orientando os tipos de ramificações e como fazer o merge. Basicamente, são criadas as ramificações de recurso ou funcionalidade, o que possibilita retardar o merge com a ramificação do tronco principal até as necessidades definidas no escopo para lançamento de uma versão [2]. Este fluxo de trabalho auxilia um software baseado em lançamento de versões, além de oferecer a possibilidade de consertar erros identificados em produção através de hotfixes. As ramificações são explicadas abaixo.</p>
-
----
 
 ## 3. Tipos de Branches
 ### 3.1 Main ou Master
@@ -82,7 +77,6 @@ feature/issueID-Nome_da_Funcionalidade
 feature/#55-Criar_Feed_de_Notícias
 ```
 
-
 ### 3.5 Release
 <p align = "justify"> &emsp; Branch que contém um conjunto de funcionalidades que podem ser implementadas na <b>main/master</b>. Diretrizes:</p>
 
@@ -129,15 +123,26 @@ bugfix/#89-Resolver_Feed_de_Noticias
 ```
 
 ### 3.7 Hotfix
-<p align = "justify"> &emsp; Destinada a resolver problemas urgentes na <b>master</b>. Diretrizes:</p>
+<p align = "justify"> &emsp; Destinada a resolver problemas urgentes na <b>main/master</b>. Diretrizes:</p>
 
-* Deve ser derivada da <b>master</b>;
+* Deve ser derivada da <b>main/master</b>;
 * Dever ser mesclada a <b>main/master</b> após concluída;
+
+<p align = "justify"> &emsp; Em caso de repositório de desenvolvimento de código:</p>
+
 * A cada novo <b>hotfix</b>, a versão do produto deve ser modificado, incrementando uma unidade ao número extremo direito.
 * O nome segue o seguinte padrão:
 
 ```
 hotfix/vNúmero.Número.Número
+```
+
+<p align = "justify"> &emsp; Em caso de repositório de documentação:</p>
+
+* O nome segue o seguinte padrão:
+
+```
+hotfix/motivo
 ```
 
 <p align = "justify">&emsp;&emsp;Onde:</p>
@@ -150,7 +155,11 @@ hotfix/vNúmero.Número.Número
 hotfix/v1.0.1
 ```
 
----
+<p align = "justify">&emsp;&emsp;ou:</p>
+
+```
+hotfix/guia_contribuicao
+```
 
 ## 4. Referências
 

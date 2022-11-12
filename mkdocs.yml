@@ -9,12 +9,12 @@ nav:
   - Home: index.html
   - Equipe:
     - Agenda e Ferramentas: equipe/agenda-e-ferramentas.md
+    - Conhecimento e Disponibilidade: equipe/conhecimento-e-disponibilidade.md
   - Contribuição: 
     - Como contribuir?: politicas/contribuindo.md
     - Política de Branches: politicas/branches.md
     - Política de Commits: politicas/commits.md
     - Código de conduta: politicas/CODE_OF_CONDUCT.md
-    - Conhecimento e Disponibilidade: equipe/conhecimento-e-disponibilidade.md
   # - Visão de Produto:
   #   - 
   # - Plano e Monitoramento:
