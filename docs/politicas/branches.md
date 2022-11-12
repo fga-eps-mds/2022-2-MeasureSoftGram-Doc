@@ -9,6 +9,7 @@ Data|Versão|Descrição|Autor
 10/11/2022|1.1|Adição do tópico de branches e referências|Rafael|
 12/11/2022|1.2|Revisão do documento |Nilvan|
 12/11/2022|1.3|Retiradas da tag "< a>", que modificavam cor dos tópicos |Nilvan|
+12/11/2022|1.3|Correção do tópico de hotfix |Rafael|
 
 ---
 
@@ -129,15 +130,26 @@ bugfix/#89-Resolver_Feed_de_Noticias
 ```
 
 ### 3.7 Hotfix
-<p align = "justify"> &emsp; Destinada a resolver problemas urgentes na <b>master</b>. Diretrizes:</p>
+<p align = "justify"> &emsp; Destinada a resolver problemas urgentes na <b>main/master</b>. Diretrizes:</p>
 
-* Deve ser derivada da <b>master</b>;
+* Deve ser derivada da <b>main/master</b>;
 * Dever ser mesclada a <b>main/master</b> após concluída;
+
+<p align = "justify"> &emsp; Em caso de repositório de desenvolvimento de código:</p>
+
 * A cada novo <b>hotfix</b>, a versão do produto deve ser modificado, incrementando uma unidade ao número extremo direito.
 * O nome segue o seguinte padrão:
 
 ```
 hotfix/vNúmero.Número.Número
+```
+
+<p align = "justify"> &emsp; Em caso de repositório de documentação:</p>
+
+* O nome segue o seguinte padrão:
+
+```
+hotfix/motivo
 ```
 
 <p align = "justify">&emsp;&emsp;Onde:</p>
@@ -148,6 +160,12 @@ hotfix/vNúmero.Número.Número
 
 ```
 hotfix/v1.0.1
+```
+
+<p align = "justify">&emsp;&emsp;ou:</p>
+
+```
+hotfix/guia_contribuicao
 ```
 
 ---
