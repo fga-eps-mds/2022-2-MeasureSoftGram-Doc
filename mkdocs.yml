@@ -10,15 +10,16 @@ nav:
   - Equipe:
     - Agenda e Ferramentas: equipe/agenda-e-ferramentas.md
     - Conhecimento e Disponibilidade: equipe/conhecimento-e-disponibilidade.md
-  - Contribuição: 
+  - Contribuição:
     - Como contribuir?: politicas/contribuindo.md
     - Política de Branches: politicas/branches.md
     - Política de Commits: politicas/commits.md
     - Código de conduta: politicas/CODE_OF_CONDUCT.md
-  
+
   # - Visão de Produto:
-  #   - 
-  # - Plano e Monitoramento:
-  #   - 
+  #   -
   - Plano e Monitoramento:
+    - Termo de Abertura: plano-monitoramento/tap.md
+    - Custo do Projeto: plano-monitoramento/custo_projeto.md
+    - Analise de Riscos: plano-monitoramento/analise_riscos.md
     - Estrutura Análitica do Projeto: plano-monitoramento/EAP.md
