@@ -15,7 +15,10 @@ nav:
     - Política de Branches: politicas/branches.md
     - Política de Commits: politicas/commits.md
     - Código de conduta: politicas/CODE_OF_CONDUCT.md
+  
   # - Visão de Produto:
   #   - 
   # - Plano e Monitoramento:
   #   - 
+  - Plano e Monitoramento:
+    - Estrutura Análitica do Projeto: plano-monitoramento/EAP.md
