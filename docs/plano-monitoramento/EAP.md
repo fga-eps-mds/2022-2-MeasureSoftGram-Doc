@@ -6,6 +6,7 @@ Data|Versão|Descrição|Autor(es)
 13/11/2022|1.0| Adição dos tópicos 1,2 e 4 |Nilvan e Francisco|
 13/11/2022|1.1| Elaboração do tópico 3 |Nilvan, Francisco e João|
 13/11/2022|1.2| Revisão do documentos |João|
+14/11/2022|1.3| Correção da sintaxe e coesão |Ítalo V.|
 
 
 ## Introdução
@@ -16,7 +17,7 @@ Data|Versão|Descrição|Autor(es)
 
 ## Metodologia
 <p align="justify">&emsp;&emsp;
-  Esse documento foi elaborado de acordo com as diretrizes básicas do plano de ensino da matéria Engenharia do Produto de Software (EPS), fornecidos pelo repositório do professor Hilmer Rodrigues Neri, onde o artefato pode ser encontrado <a href="https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/blob/master/PlanosDeEnsino/EPS_Plano_de_Ensino.md">aqui</a>. Com o intuito de definir quais as hierárquias de mais alto nível em cada fase do projeto para nos orientar nas entregas de cada etapa. Inicialmente o documento comtemplará apenas os artefatos considerados indispensáveis para a primeira release, e posteriormente, o mesmo poderá estar sendo atualizado para nos auxiliar nas demais entregas.
+  Esse documento foi elaborado de acordo com as diretrizes básicas do plano de ensino da matéria Engenharia do Produto de Software (EPS), fornecidos pelo repositório do professor Hilmer Rodrigues Neri, onde o artefato pode ser encontrado <a href="https://github.com/fga-eps-mds/A-Disciplina-MDS-EPS/blob/master/PlanosDeEnsino/EPS_Plano_de_Ensino.md">aqui</a>. Estabelecendo quais as hierarquias de mais alto nível foram definidas em cada fase do projeto, orientando nas entregas de cada etapa. Inicialmente o documento contemplará apenas os artefatos considerados indispensáveis para a primeira release, e posteriormente, o mesmo poderá estar sendo atualizado para nos auxiliar nas demais entregas.
 </p>
 
 ## Resultados
