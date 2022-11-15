@@ -5,42 +5,46 @@
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |13/11/2022|1.0|Criação do documento| João Victor Valadão, Lucas Melo, João Pedro Moura, Ítalo Fernandes |
+|15/11/2022|1.1|Adição da estrutura anaĺitica de risco| João Victor Valadão, Lucas Melo, João Pedro Moura, Ítalo Fernandes |
 
 
 ## Estrutura Analítica de Riscos
 
 <p align="justify" style="text-indent: 20px">O planejamento de riscos consiste em uma das partes mais importantes do planejamento de um projeto, uma vez que definidos quais são os riscos que podem ocorrer, é possível definir estratégias para minimizar os impactos que esses riscos podem causar no projeto. Para isso, é necessário identificar os riscos que podem ocorrer, analisar a probabilidade de cada um deles ocorrer e seu respectivo impacto ao desenvolvimento da aplicação. A partir disso, é possível definir estratégias para minimizar os impactos que esses riscos podem causar no projeto [<a href=./#referencia>1</a>].</p>
 
-<p align="justify" style="text-indent: 20px">Assim, a estrutura analítica de riscos  é uma ferramenta que permite a identificação, análise e priorização dos riscos que podem ocorrer durante o desenvolvimento do projeto. Com o objetivo de facilitar a identificação dos riscos, a estrutura analítica de riscos é dividida em categorias: riscos organizacionais, riscos de gerenciamento do projeto, riscos técnicos e riscos externo (EAR)[<a href=./#referencia>2</a>], agrupamento e organizaçãoEssa categorização, pode ser observada de uma forma mais visual com a diagramação a seguir:s.</p>
+<p align="justify" style="text-indent: 20px">Assim, a estrutura analítica de riscos é uma ferramenta que permite a identificação, análise e priorização dos riscos que podem ocorrer durante o desenvolvimento do projeto. Com o objetivo de facilitar a identificação dos riscos, a estrutura analítica de riscos é dividida em categorias: riscos organizacionais, riscos de gerenciamento do projeto, riscos técnicos e riscos externo (EAR)[<a href=./#referencia>2</a>], agrupamento e organização. Essa categorização, pode ser observada de uma forma mais visual com a diagramação a seguir:</p>
 
-<!-- adicionar diagrama -->
-
-**Organizacional**:
-
-- Estratégia: Alterações na estratégia afeta diretamente o andamento do projeto, podendo causar uma perda do trabalho já realizado.
-- Estrutura: O ambiente onde é realizado o trabalho pode dificultar o desenvolvimento.
-- Prioridade: O projeto pode sofrer pausas e cancelamentos devido à mudanças de prioridade, criando atraso geral.
-
-**Gerenciamento do projeto**:
-
-- Mudanças no escopo: Mudanças no escopo do projeto podem ocorrer durante o desenvolvimento, causando impactos no cronograma e no orçamento.
-- Planejamento: Planejamento para a evolução da plataforma pode ser realizado de forma equivocada e demandar mais tempo do que o esperado.
-- Comunicação: A comunicação entre os membros da equipe pode ser prejudicada por fatores, como a falta de tempo, a falta de interesse ou a falta de conhecimento. Além disso, a comunicação entre a equipe e o cliente também pode não acontecer com a periodicidade desejada.
-
-
-**Técnico**:
-
-- Requisitos: A equipe pode não conseguir atender a todos os requisitos do cliente, ou não definir corretamente os requisitos do projeto.
-- Tecnologia: Os membros da equipe podem não ter conhecimento suficiente acerca das tecnologias utilizadas no projeto.
-- Infraestrutura: A equipe pode não conseguir manter a infraestrutura necessária para o desenvolvimento do projeto.
-- Arquitetura: Uma vez que a arquitetura do projeto já foi definida, a equipe pode encontrar dificuldades para mante-la diante da implementação de novas funcionalidades.
+<!-- https://miro.com/app/board/uXjVOo14XqA=/ -->
+<iframe src="https://miro.com/app/live-embed/uXjVOo14XqA=/?moveToViewport=-641,-238,1276,1606&embedId=734205859227" scrolling="no" allowfullscreen style="width: 100%; height: 500px" frameborder="0"></iframe>
 
 **Externo**:
 
-<!-- - Faculdade: Outras disciplinas podem influenciar no andamento do projeto.
-- Saúde: Integrantes e cliente podem adoecer durante o semestre. Também a o risco de alguem contrair COVID-19 e as aulas tornarsem remotas, por um perído, novamente.
-- Cliente/Stakeholder: Cliente pode não está sempre dísponivel.
-- Profissional: Vida profissional pode afetar o ritmo e hórarios dos estudantes. -->
+- Faculdade: Riscos relacionados à outras disciplinas que acontecem durante o projeto.
+- Saúde: Riscos relacionados à saúde dos integrantes e clientes do projeto. Onde em casos extremos pode levar a volta do sistema de ensino à distância.
+- Profissional: Riscos relacionados às vidas profissionais dos integrantes.
+- Cliente: Riscos associados à indisponibilidades dos clientes.
+
+**Organizacional**:
+
+- Priorização: Riscos associados à possíveis priorizações equivocadas dos requisitos, de acordo com a perspectiva do cliente.
+- Financiamento: Riscos inerentes aos custos do projeto com a existência de possíveis financiamentos monetários no projeto.
+- Habilidades individuais: Riscos relacionados com às capacidades e habilidades de cada integrante.
+
+**Técnico**:
+
+- Dependências de projeto: Riscos relacionados com dependências externas utilizadas no projeto.
+- Tecnologia: Riscos associados com as tecnologias utilizadas.
+- Infraestrutura: Riscos relacionandos com a infraestrutura do projeto.
+- Arquitetura: Riscos relacionados com a arquitetura utilizada no projeto.
+- Qualidade: Riscos associados às características de qualidade do produto.
+
+**Gerenciamento do projeto**:
+
+- Pessoas: Riscos relacionados com a gerência das pessoas integrantes do projeto.
+- Estimativas: Riscos relacionados com a definição e alterações das estimativas definidas para o projeto.
+- Planejamento: Riscos relacionados ao planejamento do projeto.
+- Execução: Riscos associados com a execução do projeto.
+- Comunicação: Riscos associados com a comunicação entre membros e entre clientes.
 
 ## Análise Quantitativa
 
@@ -74,56 +78,6 @@
 **Baixa**                 |        2        |    4      |      6     |    8     |      10
 **Muito Baixa**           |        1        |    2      |      3     |    4     |      5
 
-## Planilha de Riscos
-
-<p align="justify" style="text-indent: 20px">Após o entendimento das fontes de riscos encontradas no projeto (Organizacional, Externo, Gerênciamento de projeto e Técnico), foram confeccionadas diversas tabelas identificando as suas probabilidades, impactos, prevenções e respostas. Esse detalhamento, assistiu à todas as sprints permitindo a equipe gerênciar e melhor se organizar durante a execução do projeto.</p>
-
-**Organizacional**:
-
-<!-- | ID  | Risco                                                                             | Probabilidade | Impacto | Prevenção                                               | Plano de ação                                                                                                                                                  |
-| --- | --------------------------------------------------------------------------------- | ------------- | ------- | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| R1  | Integrantes podem não estar familiarizados com as tecnologias adotadas no projeto | Baixo         | Alto    | Treinar integrantes não familiarizados com a tecnologia | Incentivar treinamentos e tarefas pareadas                                                                                                                     |
-| R2  | Realizar pareamentos de forma ineficiente                                         | Médio         | Alto    | Conhecer as habilidades dos membros da equipe           | O time deve realizar pareamentos de uma forma que seja benéfica à equipe. Pelo menos um dos integrantes do pareamento deve ter mais experiência com o problema |
-| R3  | Atividades podem ser indicadas de forma equivocada                                | Baixo         | Alto    | Conhecer as habilidades dos membros da equipe           | Criar um quadro de conhecimento para saber a especialidade de cada integrante.                                                                                 | -->
-
-<!-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSRNmajBsenuYzDO-3k0z0XIlA1UhBFF1FvxeuyMJThBsKcoyy4jSER5JkrHJf700FhHcpBohI3SO3b/pubhtml?gid=1768542007&amp;single=true&amp;widget=true&amp;headers=false" height="500px"></iframe> -->
-
-**Externo**:
-
-<!-- | ID  | Risco                                                                                               | Probabilidade | Impacto | Prevenção | Plano de ação                                                                         |
-| --- | --------------------------------------------------------------------------------------------------- | ------------- | ------- | --------- | ------------------------------------------------------------------------------------- |
-| R4  | Indisponibilidade do cliente ao decorrer do projeto                                                 | Alto          | Alto    | -         | Sempre que for possível ou necessário, obter o máximo de informação do cliente assim. |
-| R5  | Algum integrante do time pode ficar indisponível                                                    | Alto          | Médio   | -         | Adaptar trabalho do time quando houver necessidade                                    |
-| R6  | Demandas na vida profissional e faculdade dos integrantes do time podem afetar andamento do projeto | Alto          | Baixo   | -         | Time deve planejar bem seus horários e disponibilidades                               |
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSRNmajBsenuYzDO-3k0z0XIlA1UhBFF1FvxeuyMJThBsKcoyy4jSER5JkrHJf700FhHcpBohI3SO3b/pubhtml?gid=1194146969&amp;single=true&amp;widget=true&amp;headers=false" height="500px"></iframe> -->
-
-**Gerenciamento de projeto**:
-
-<!-- | ID  | Risco                                                                       | Probabilidade | Impacto | Prevenção                                                                                                 | Plano de ação                                                                                                                         |
-| --- | --------------------------------------------------------------------------- | ------------- | ------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| R7  | Alguns integrantes podem acabar perdendo reuniões e informações importantes | Médio         | Baixo   | Identificar horários de disponibilidade de integrantes do grupo                                           | Realizar reuniões rápidas, pelo menos duas vezes por semana, para alinhar time, além disso criar resumo de reuniões longas no Github. |
-| R8  | É possível que tarefas sejam estimadas de forma equivocada                  | Baixo         | Alto    | Durante a fase de planejamento, identificar tarefas que sejam muito complexas.                            | Quebrar tarefas muito grandes, ou complexas, em várias pequenas tarefas que tornam o desenvolvimento mais fácil.                      |
-| R9  | Muitas tarefas podem acabar indo para a priorizadas e se tornem dívidas     | Alto          | Baixo   | Avaliar as métricas que o Zenhub fornece ao time, dessa forma evitaremos possíveis dívidas técnicas       | Planejar sprints baseado em métricas passadas da equipe.                                                                              |
-| R10 | Atrasar execução de uma tarefa                                              | Alto          | Baixo   | Desenvolvedor deve informar a equipe do problema que está ocorrendo para que todos saibam do que se trata | Realizar pareamentos, dessa forma é possível que a tarefa seja entregue de forma mais rápida.                                         |
-| R11 | Priorização de tarefas de forma equivocada                                  | Alto          | Baixo   | Validar com o cliente as tarefas que deve ser priorizadas                                             | Realizar planning meetings         
-| R12 | Falta de engajamento de membros do grupo                                    | Alto          | Alto    | Realizar reuniões e motivar todos do grupo na realização do projeto                                   | Caso necessário, entregar tarefas "não blocantes" para membros menos engajados |
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSRNmajBsenuYzDO-3k0z0XIlA1UhBFF1FvxeuyMJThBsKcoyy4jSER5JkrHJf700FhHcpBohI3SO3b/pubhtml?gid=993723594&amp;single=true&amp;widget=true&amp;headers=false" height="550px"></iframe> -->
-
-**Tecnico**:
-
-<!-- | ID  | Risco                                                                                        | Probabilidade | Impacto    | Prevenção                                                 | Plano de ação                                                                              |
-| --- | -------------------------------------------------------------------------------------------- | ------------- | ---------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| R13 | Arquitetura definida previamente pode não atender requisitos para mutabilidade do produto    | Alto          | Muito Alto | Analisar documento arquitetural e implementação no código | Alterar arquitetura para atender novos requisitos e, se necessário, replanejar arquitetura |
-| R14 | Infraestrutura definida previamente deverá ser alterada por não atender requisitos           | Baixo         | Muito Alto | Entender bem sobre a infra estrutura que será utilizada   | Alterar infraestrutura                                                                     |
-| R15 | Qualidade do código já escrito pode estar ruim (Code smell, alto acoplamento e baixa coesão) | Alto          | Alto       | Analisar código e entender sua lógica                     | Refatorar o código aos poucos quando for necessário                                        |
-| R16 | Requisitos para nova MVP podem ser definidos de forma equivocada                             | Baixo         | Alto       | Sempre que possível, validar requisitos com o cliente     | Criar fluxo de criação, refinamento e validação de requisitos.                             |
-| R17 | Priorizar etapas, requisitos ou atributos de qualidade de forma equivocada                   | Baixo         | Muito Alto | Validar dúvidas com o cliente                             | Despriorizar tudo que não for necessário                                                   |
-| R18 | Tecnologia definida pode não atender requisitos do projeto                                   | Baixo         | Muito Alto | Enteder capacidade das tecnologias utilizadas             | Caso haja algum problema muito grande, estudar novas tecnologias e aplicá-las              |
-| R19 | Requisitos do MVP podem não ser finalizados no prazo definido                                | Alto          | Muito Alto | Manter conversas frequentes com o cliente, validando os requisitos do MVP  | Caso seja necessário, reduzir e repriorizar os requisitos do MVP, para manter a entrega |
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSRNmajBsenuYzDO-3k0z0XIlA1UhBFF1FvxeuyMJThBsKcoyy4jSER5JkrHJf700FhHcpBohI3SO3b/pubhtml?gid=1173093087&amp;single=true&amp;widget=true&amp;headers=false" height="570px"></iframe> -->
 
 ## Refêrencia
 
