@@ -6,6 +6,7 @@
 |------|------|------|------|
 |13/11/2022|1.0|Criação do documento| João Victor Valadão, Lucas Melo, João Pedro Moura, Ítalo Fernandes |
 |15/11/2022|1.1|Adição da estrutura anaĺitica de risco| João Victor Valadão, Lucas Melo, João Pedro Moura, Ítalo Fernandes |
+|15/11/2022|1.2|Adição da planilha de riscos| João Victor Valadão, Lucas Melo, João Pedro Moura, Ítalo Fernandes |
 
 
 ## Estrutura Analítica de Riscos
@@ -77,6 +78,49 @@
 **Média**                 |        3        |    6      |      9     |    12    |      15
 **Baixa**                 |        2        |    4      |      6     |    8     |      10
 **Muito Baixa**           |        1        |    2      |      3     |    4     |      5
+
+## Planilha de Riscos
+
+<p align="justify" style="text-indent: 20px">Após o entendimento das fontes de riscos encontradas no projeto (Organizacional, Externo, Gerênciamento de projeto e Técnico), foram confeccionadas diversas tabelas identificando as suas probabilidades, impactos, prevenções e respostas. Esse detalhamento, assistiu à todas as sprints permitindo a equipe gerênciar e melhor se organizar durante a execução do projeto.</p>
+
+**Externo**:
+
+|ID|Risco|Probabilidade|Impacto|Prevenção|Resposta|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|R1|Indisponibilidade do cliente no decorrer do projeto|Médio|Alto|Organizar, comunicar e definir horários com os clientes|Repriorizar/Alterar para problemas que não envolvem o cliente|
+|R2|Indisponibilidades dos integrantes por motivos profissionais|Alto|Médio|Planejamento e divisão de tarefas|Redistribuição de tarefas entre a equipe|
+|R3|Indisponibilidades dos integrantes por motivos de saúde|Médio|Baixo|Sempre estar atento às medidas de saúde|Redistribuição de tarefas entre a equipe|
+|R4|Indisponibilidades dos integrantes por demandas da faculdade|Médio|Médio|-|Redistribuição de tarefas entre a equipe|
+
+**Organizacional**:
+
+|ID|Risco|Probabilidade|Impacto|Prevenção|Resposta|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|R5|Realização de pareamentos de forma ineficiente|Baixo|Médio|Entendimento dos conhecimentos e habilidades da equipe|Reparear ou transformar pareamento em um grupo com mais integrantes|
+|R6|Priorização equivocada das tarefas|Médio|Muito Alto|Entendimento do produto, avaliações com os clientes, comunicação entre a equipe|Repriorizar e se for necessário levantar novos requisitos|
+|R7|Familiaridade com a tecnologia|Médio|Médio|Avaliação do quadro de conhecimento da equipe|Realização de treinamentos e divulgação do conhecimento|
+|R8|Financiamento do projeto|Baixo|Baixo|-|Avaliação dos requisitos, apresentação do projeto, comunicação com os clientes|
+
+**Técnico**:
+
+|ID|Risco|Probabilidade|Impacto|Prevenção|Resposta|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|R9|Utilização de bibliotecas desatualizadas/comprometidas|Muito Baixo|Alto|Avaliação antes do uso/escolha da biblioteca|Implementação própria ou mudança de biblioteca|
+|R10|Utilização de tecnologias que não atendem às demandas|Muito Baixo|Médio|Avaliação prévia da tecnologia e das suas funcionalidades|Refatorações de código|
+|R11|Infraestrutura definida não atende o projeto|Alto|Muito Alto|Avaliação dos custos e capacidades da infraestrutura escolhida|Alteração da infraestrutura do projeto|
+|R12|Arquitetura definida não atende o projeto|Baixo|Alto|Análise e avaliação da arquitetura utilizada ou que se deseja utilizar|Alteração da arquitetura definida envolvendo refatorações de código|
+|R13|Qualidade de código|Médio|Alto|Análise estática de código, avaliação de acordo com os padrões esperados de qualidade|Refatorações de código|
+
+**Gerênciamento de projeto**:
+
+|ID|Risco|Probabilidade|Impacto|Prevenção|Resposta|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|R14|Perda de reuniões da equipe|Baixo|Médio|Análise do quadro de disponiblidades do grupo|Realização de reuniões rápidas, gravação das reuniões|
+|R15|Saida de membros da equipe|Baixo|Médio|Sempre ajudar os membros com mais dificuldades, avaliações de stress mental e saude da equipe|Realocação dos membros nas atividades|
+|R16|Subestimativas ou Superestimativas|Alto|Médio|Avaliação das estimativas com a equipe, conhecimento do projeto|Reavaliação das estimativas propostas|
+|R17|Falta de planejamento|Baixo|Alto|Planejamentos com antecedência sempre levando em conta a capacidade e disponibilidade dos membros|Replanejamento e possível realocação de membros nas atividades|
+|R18|Atrasos nas execuções das atividades|Médio|Alto|Entendimento dos cronogramas e das capacidades dos integrantes|Reavaliação do cronograma e das tarefas que são esperadas para as entregas|
+|R19|Falta de comunicação entre a equipe e entre os clientes|Baixo|Alto|Manter canal de comunicação entre a equipe e entre o cliente sempre bem ativo|Propor atividades para interação do grupo|
 
 
 ## Refêrencia
