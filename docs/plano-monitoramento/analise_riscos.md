@@ -7,6 +7,7 @@
 |13/11/2022|1.0|Criação do documento| João Victor Valadão, Lucas Melo, João Pedro Moura, Ítalo Fernandes |
 |15/11/2022|1.1|Adição da estrutura anaĺitica de risco| João Victor Valadão, Lucas Melo, João Pedro Moura, Ítalo Fernandes |
 |15/11/2022|1.2|Adição da planilha de riscos| João Victor Valadão, Lucas Melo, João Pedro Moura, Ítalo Fernandes |
+|15/11/2022|1.3|Adição tabelas de burndown de riscos| João Victor Valadão, Lucas Melo, João Pedro Moura, Ítalo Fernandes |
 
 
 ## Estrutura Analítica de Riscos
@@ -122,6 +123,11 @@
 |R18|Atrasos nas execuções das atividades|Médio|Alto|Entendimento dos cronogramas e das capacidades dos integrantes|Reavaliação do cronograma e das tarefas que são esperadas para as entregas|
 |R19|Falta de comunicação entre a equipe e entre os clientes|Baixo|Alto|Manter canal de comunicação entre a equipe e entre o cliente sempre bem ativo|Propor atividades para interação do grupo|
 
+## Burndown de Riscos
+
+<p align="justify" style="text-indent: 20px">Para melhorar a visualização do desenvolvimento dos riscos durante a execução do projeto, foram utilizados quadros de <i>burndown</i> para cada agrupamento de risco. Nesses gráficos, portanto, é possível notar e comparar a evolução dos riscos de acordo com as <i>sprints</i> do projeto. O quadro pode ser melhor visualizado <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTyXZTCcepxg9H42ZtYSulpsa6D2KLQi8k-SY9mDJr1UC1no4UKsTk4-NL36UEV3TOdeGcKDOXS_-MX/pubhtml?widget=true&amp;headers=false">aqui</a>.</p>
+
+<iframe style="width: 100%; height: 500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTyXZTCcepxg9H42ZtYSulpsa6D2KLQi8k-SY9mDJr1UC1no4UKsTk4-NL36UEV3TOdeGcKDOXS_-MX/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ## Refêrencia
 
