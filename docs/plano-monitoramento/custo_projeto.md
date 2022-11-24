@@ -7,6 +7,7 @@
 |13/11/2022|1.0|Criação do documento| João Victor Valadão, Lucas Melo, João Pedro Moura, Ítalo Fernandes |
 |15/11/2022|1.0|Atualizado custos por universitário e custos com equipamentos| Lucas Melo |
 |22/11/2022|1.0|Adicionado EVM| Lucas Melo |
+|22/11/2022|1.0|Atualizado link evm| Lucas Melo |
 
 ## Introdução
 
@@ -62,7 +63,7 @@ Usando como base essas especificações de hardware, um Notebook Acer Aspire 5 A
 
 ## Planilha do EVM
 
-Link: https://docs.google.com/spreadsheets/d/1VOiTzbyBo5sYZwEQbOQigxqfAspJzP6q-O0zPs8e-kg/edit?usp=sharing
+Link: <a href='https://docs.google.com/spreadsheets/d/16Ntk4OPcsMS6YJWFJb8Zxa9z8DG2cJIcbjo8YPOaePE/edit?usp=sharing'>planilha EVM</a>
 
 
 EVM
@@ -71,7 +72,7 @@ EVM
 
 ## Referência
 
-> [1] RAIO-X DO CUSTO POR ALUNO NAS UNIVERSIDADES FEDERAIS. Disponível em: https://infograficos.oglobo.globo.com/brasil/raio-x-do-custo-por-aluno-nas-universidades-federais.html. Acesso em 05/09/2022.
+> [1] RAIO-X DO CUSTO POR ALUNO NAS UNIVERSIDADES FEDERAIS. Disponível em: https://infograficos.oglobo.globo.com/brasil/raio-x-do-custo-por-aluno-nas-universidades-federais.html. Acesso em 13 nov. 2022.
 
 > [2] BCB - Calculadora do cidadão. Bcb.gov.br. Disponível em: https://www3.bcb.gov.br/CALCIDADAO/publico/corrigirPorIndice.do?method=corrigirPorIndice. Acesso em: 16 nov. 2022.
 
