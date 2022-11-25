@@ -5,9 +5,9 @@
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |13/11/2022|1.0|Criação do documento| João Victor Valadão, Lucas Melo, João Pedro Moura, Ítalo Fernandes |
-|15/11/2022|1.0|Atualizado custos por universitário e custos com equipamentos| Lucas Melo |
-|22/11/2022|1.0|Adicionado EVM| Lucas Melo |
-|22/11/2022|1.0|Atualizado link evm| Lucas Melo |
+|15/11/2022|1.1|Atualizado custos por universitário e custos com equipamentos| Lucas Melo |
+|22/11/2022|1.2|Adicionado EVM| Lucas Melo |
+|22/11/2022|1.3|Atualizado link evm| Lucas Melo |
 
 ## Introdução
 
@@ -28,7 +28,7 @@ Utilizando a calculadora de ajuste de inflação do Banco Central do Brasil <a h
 
 ## Custo de internet
 
-Considerando que todos os integrantes do time possuem internet banda larga, de pelo menos 100 MBPS, os valores estimados para Brasília foram de:
+<p align="justify" style="text-indent: 20px">Considerando que todos os integrantes do time possuem internet banda larga, de pelo menos 100 MBPS, os valores estimados para Brasília foram de:</p>
 
 | Mensal por aluno | Mensal por grupo    | 3 meses      |
 | ---------------- | --------------      | -------      |
@@ -48,18 +48,16 @@ Considerando que todos os integrantes do time possuem internet banda larga, de p
 | ---------------- | --------------      | -------      |
 | R$ 71.00         | R$ 781.00           | R$ 2157.00   |
 
-
 ## Custo de equipamentos
 
-
-Para realizar a estimativa de custo de equipamentos, foi considerando que o único equipamento necessário para o desenvolvimento do projeto é um computador com as seguintes especificações:
+<p align="justify" style="text-indent: 20px">Para realizar a estimativa de custo de equipamentos, foi considerando que o único equipamento necessário para o desenvolvimento do projeto é um computador com as seguintes especificações:</p>
 
 * Deve possuir um processador Intel Core i5 da 11ª geração ou superior;
 * Deve possuir 8 GB de memória RAM ou superior;
 * Deve possui SSD de 256 GB ou superior;
 
 
-Usando como base essas especificações de hardware, um Notebook Acer Aspire 5 A515-54G-55HW Intel Core I5 8GB 256GB SSD Windows 11 15,6” Prata teria o custo de R$ 3.699,00. Sendo assim, para 11 participantes, o custo total de R$ 40.689,00.
+<p align="justify" style="text-indent: 20px">Usando como base essas especificações de hardware, um Notebook Acer Aspire 5 A515-54G-55HW Intel Core I5 8GB 256GB SSD Windows 11 15,6” Prata teria o custo de R$ 3.699,00. Sendo assim, para 11 participantes, o custo total de R$ 40.689,00.</p>
 
 ## Planilha do EVM
 
@@ -68,12 +66,12 @@ Link: <a href='https://docs.google.com/spreadsheets/d/16Ntk4OPcsMS6YJWFJb8Zxa9z8
 
 EVM
 
-<iframe  height="750px" width="600px"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT3rHd0sywGAqNVUB26yKJGPKO5lHDWYpCsK1WDwUwbnl6-9-V4WmqEBnthWo1D_5EWaiUFpL5qlTZq/pubhtml?gid=268796454&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe  style="width: 100%; height: 500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT3rHd0sywGAqNVUB26yKJGPKO5lHDWYpCsK1WDwUwbnl6-9-V4WmqEBnthWo1D_5EWaiUFpL5qlTZq/pubhtml?gid=268796454&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## Referência
 
-> [1] RAIO-X DO CUSTO POR ALUNO NAS UNIVERSIDADES FEDERAIS. Disponível em: https://infograficos.oglobo.globo.com/brasil/raio-x-do-custo-por-aluno-nas-universidades-federais.html. Acesso em 13 nov. 2022.
+> [1] **RAIO-X DO CUSTO POR ALUNO NAS UNIVERSIDADES FEDERAIS**. Disponível em: [https://infograficos.oglobo.globo.com/brasil/raio-x-do-custo-por-aluno-nas-universidades-federais.html](https://infograficos.oglobo.globo.com/brasil/raio-x-do-custo-por-aluno-nas-universidades-federais.html). Acesso em 13 nov. 2022.
 
-> [2] BCB - Calculadora do cidadão. Bcb.gov.br. Disponível em: https://www3.bcb.gov.br/CALCIDADAO/publico/corrigirPorIndice.do?method=corrigirPorIndice. Acesso em: 16 nov. 2022.
+> [2] **BCB - Calculadora do cidadão**. Bcb.gov.br. Disponível em: [https://www3.bcb.gov.br/CALCIDADAO/publico/corrigirPorIndice.do?method=corrigirPorIndice](https://www3.bcb.gov.br/CALCIDADAO/publico/corrigirPorIndice.do?method=corrigirPorIndice). Acesso em: 16 nov. 2022.
 
 ‌
