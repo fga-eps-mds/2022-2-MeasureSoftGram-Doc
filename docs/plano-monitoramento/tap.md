@@ -20,7 +20,7 @@
 
 ## Descrição do projeto
 
-<p align="justify" style="text-indent: 20px">O projeto se iniciou como um projeto de doutorado do professor Hilmer Rodrigues Neri [<a href=./#referencia>3</a>], responsável por ministrar a disciplina de  Engenharia de Produção de Software. Porém, devido a proporção que o projeto alcançou, hoje ele se tornou um software open source que permite e incentiva a contribuição de novos desenvolvedorsque desejem contribuir com a aplicação. </p>
+<p align="justify" style="text-indent: 20px">O projeto se iniciou como um projeto de doutorado do professor Hilmer Rodrigues Neri [<a href=./#referencia>3</a>], responsável por ministrar a disciplina de  Engenharia de Produção de Software. Porém, devido a proporção que o projeto alcançou, hoje ele se tornou um software open source que permite e incentiva a contribuição de novos desenvolvedores que desejem contribuir com a aplicação. </p>
 
 ## Prazos e Entregas
 
@@ -48,7 +48,7 @@
 
 ## Orçamento inicial
 
-<p align="justify" style="text-indent: 20px">O orçamento inicial do projeto se dá apenas pelos custos que foram avalidaos e podem ser visualizados na aba de <a href=../custo_projeto>Custos do projeto.</a></p>
+<p align="justify" style="text-indent: 20px">O orçamento inicial do projeto se dá apenas pelos custos que foram avaliados e podem ser visualizados na aba de <a href=../custo_projeto>Custos do projeto.</a></p>
 
 ## Riscos mais relevantes
 
@@ -63,7 +63,7 @@
 
 ## Plano de comunicação
 
-<p align="justify" style="text-indent: 20px">Todas as ferramentas de comunicação definidas foram baseadas e selecionadas de acordo com as necessidades do cliente e da equipe. Um descrição melhor sobre as ferramentas utilizadas, pode ser encontrado <a href=../../equipe/agenda-e-ferramentas>aqui</a>.</p>
+<p align="justify" style="text-indent: 20px">Todas as ferramentas de comunicação definidas foram baseadas e selecionadas de acordo com as necessidades do cliente e da equipe. Uma descrição melhor sobre as ferramentas utilizadas, pode ser encontrado <a href=../../equipe/agenda-e-ferramentas>aqui</a>.</p>
 
 ## Referências
 

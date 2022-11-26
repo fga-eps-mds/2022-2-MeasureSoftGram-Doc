@@ -19,7 +19,7 @@
 ## Custo por universitário
 
 <p align="justify" style="text-indent: 20px">
-Usando  como referência a reportagem Raio-X do custo por aluno nas univerdades federais, publicada pelo jornal O Globo em 2016 [<a href=./#referencia>1</a>], o custo de um aluno da Universidade de Brasília é de R$ 38.805,00 por ano.</p>
+Usando  como referência a reportagem Raio-X do custo por aluno nas universidades federais, publicada pelo jornal O Globo em 2016 [<a href=./#referencia>1</a>], o custo de um aluno da Universidade de Brasília é de R$ 38.805,00 por ano.</p>
 
 <p align="justify" style="text-indent: 20px">
 Utilizando a calculadora de ajuste de inflação do Banco Central do Brasil [<a href=./#referencia>2</a>] para calcular o valor atualizado para o ano de 2022. Para isso foi utilizado o índice de inflação IPCA (IBGE) usando os anos de 2016 e 2022. O resultado foi de R$ 53.140,65, sendo assim o custo mensal de R$ 4.428,39. Considerando que cada aluno cursa em média 6 matérias(360 horas) por semestre, o custo de um aluno por disciplina é de R$ 738,06. Levando em conta que a disciplina que o projeto é desenvolvido possui 60 horas, temos que cada aluno custaria por hora R$ 12,30.
@@ -55,7 +55,7 @@ Utilizando a calculadora de ajuste de inflação do Banco Central do Brasil [<a 
 
 * Deve possuir um processador Intel Core i5 da 11ª geração ou superior;
 * Deve possuir 8 GB de memória RAM ou superior;
-* Deve possui SSD de 256 GB ou superior;
+* Deve possuir SSD de 256 GB ou superior;
 
 
 <p align="justify" style="text-indent: 20px">Usando como base essas especificações de hardware, um Notebook Acer Aspire 5 A515-54G-55HW Intel Core I5 8GB 256GB SSD Windows 11 15,6” Prata teria o custo de <b>R$ 3.699,00</b>. Sendo assim, para 11 participantes, o custo total de <b>R$ 40.689,00.</b></p>

@@ -36,7 +36,7 @@
 
 - Dependências de projeto: Riscos relacionados com dependências externas utilizadas no projeto.
 - Tecnologia: Riscos associados com as tecnologias utilizadas.
-- Infraestrutura: Riscos relacionandos com a infraestrutura do projeto.
+- Infraestrutura: Riscos relacionados com a infraestrutura do projeto.
 - Arquitetura: Riscos relacionados com a arquitetura utilizada no projeto.
 - Qualidade: Riscos associados às características de qualidade do produto.
 
@@ -82,7 +82,7 @@
 
 ## Planilha de Riscos
 
-<p align="justify" style="text-indent: 20px">Após o entendimento das fontes de riscos encontradas no projeto (Organizacional, Externo, Gerênciamento de projeto e Técnico), foram confeccionadas diversas tabelas identificando as suas probabilidades, impactos, prevenções e respostas. Esse detalhamento, assistiu à todas as sprints permitindo a equipe gerênciar e melhor se organizar durante a execução do projeto.</p>
+<p align="justify" style="text-indent: 20px">Após o entendimento das fontes de riscos encontradas no projeto (Organizacional, Externo, Gerenciamento de projeto e Técnico), foram confeccionadas diversas tabelas identificando as suas probabilidades, impactos, prevenções e respostas. Esse detalhamento, assistiu à todas as sprints permitindo a equipe gerenciar e melhor se organizar durante a execução do projeto.</p>
 
 **Externo**:
 
@@ -116,8 +116,8 @@
 
 |ID|Risco|Probabilidade|Impacto|Prevenção|Resposta|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|R14|Perda de reuniões da equipe|Baixo|Médio|Análise do quadro de disponiblidades do grupo|Realização de reuniões rápidas, gravação das reuniões|
-|R15|Saida de membros da equipe|Baixo|Médio|Sempre ajudar os membros com mais dificuldades, avaliações de stress mental e saude da equipe|Realocação dos membros nas atividades|
+|R14|Perda de reuniões da equipe|Baixo|Médio|Análise do quadro de disponibilidades do grupo|Realização de reuniões rápidas, gravação das reuniões|
+|R15|Saída de membros da equipe|Baixo|Médio|Sempre ajudar os membros com mais dificuldades, avaliações de stress mental e saúde da equipe|Realocação dos membros nas atividades|
 |R16|Subestimativas ou Superestimativas|Alto|Médio|Avaliação das estimativas com a equipe, conhecimento do projeto|Reavaliação das estimativas propostas|
 |R17|Falta de planejamento|Baixo|Alto|Planejamentos com antecedência sempre levando em conta a capacidade e disponibilidade dos membros|Replanejamento e possível realocação de membros nas atividades|
 |R18|Atrasos nas execuções das atividades|Médio|Alto|Entendimento dos cronogramas e das capacidades dos integrantes|Reavaliação do cronograma e das tarefas que são esperadas para as entregas|
