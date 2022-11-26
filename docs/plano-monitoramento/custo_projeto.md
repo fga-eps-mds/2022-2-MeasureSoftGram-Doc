@@ -8,6 +8,8 @@
 |15/11/2022|1.1|Atualizado custos por universitário e custos com equipamentos| Lucas Melo |
 |22/11/2022|1.2|Adicionado EVM| Lucas Melo |
 |22/11/2022|1.3|Atualizado link evm| Lucas Melo |
+|25/11/2022|1.4|Correções do documento e melhoria das tabelas| João Pedro Moura, Rafael Cleydson |
+|26/11/2022|2.0|Refatoração do tópico e planilha do EVM| João Pedro Moura, Rafael Cleydson |
 
 ## Introdução
 
@@ -17,14 +19,13 @@
 ## Custo por universitário
 
 <p align="justify" style="text-indent: 20px">
-Usando  como referência a reportagem Raio-X do custo por aluno nas univerdades federais, publicada pelo jornal O Globo em 2016 <a href=./#referencia>[1]</a>, o custo de um aluno da Universidade de Brasília é de R$ 38.805,00 por ano.</p>
+Usando  como referência a reportagem Raio-X do custo por aluno nas univerdades federais, publicada pelo jornal O Globo em 2016 [<a href=./#referencia>1</a>], o custo de um aluno da Universidade de Brasília é de R$ 38.805,00 por ano.</p>
 
 <p align="justify" style="text-indent: 20px">
-Utilizando a calculadora de ajuste de inflação do Banco Central do Brasil <a href=./#referencia>[2]</a> para calcular o valor atualizado para o ano de 2022. Para isso foi utilizado o índice de inflação IPCA (IBGE) usando os anos de 2016 e 2022. O resultado foi de R$ 53.140,65, sendo assim o custo mensal de R$ 4.428,39. Considerando que cada aluno cursa em média 6 matérias(360 horas) por semestre, o custo de um aluno por disciplina é de R$ 738,06. Levando em conta que a disciplina que o projeto é desenvolvido possui 60 horas, temos que cada aluno custaria por hora R$ 12,30.
+Utilizando a calculadora de ajuste de inflação do Banco Central do Brasil [<a href=./#referencia>2</a>] para calcular o valor atualizado para o ano de 2022. Para isso foi utilizado o índice de inflação IPCA (IBGE) usando os anos de 2016 e 2022. O resultado foi de R$ 53.140,65, sendo assim o custo mensal de R$ 4.428,39. Considerando que cada aluno cursa em média 6 matérias(360 horas) por semestre, o custo de um aluno por disciplina é de R$ 738,06. Levando em conta que a disciplina que o projeto é desenvolvido possui 60 horas, temos que cada aluno custaria por hora R$ 12,30.
 </p>
 
-
-<p align="justify" style="text-indent: 20px">Considerando que cada membro do grupo irá trabalhar em média 40 horas por mês no projeto, e que o o projeto tem duração de 90 dias(3 meses). Com 11 integrantes o custo total estimado no desenvolvimento do projeto seja aproximadamente de R$ 5.412,47</p>
+<p align="justify" style="text-indent: 20px">Considerando que cada membro do grupo irá trabalhar em média 40 horas por mês no projeto, e que o o projeto tem duração de 90 dias(3 meses). Com 11 integrantes o custo total estimado no desenvolvimento do projeto seja aproximadamente de <b>R$ 5.412,47</b></p>
 
 ## Custo de internet
 
@@ -32,7 +33,7 @@ Utilizando a calculadora de ajuste de inflação do Banco Central do Brasil <a h
 
 | Mensal por aluno | Mensal por grupo    | 3 meses      |
 | ---------------- | --------------      | -------      |
-| R$ 100.00        | R$ 1100.00          | R$ 3000.00   |
+| R$ 100.00        | R$ 1100.00          | R$ 3300.00   |
 
 
 ## Custo de água
@@ -46,7 +47,7 @@ Utilizando a calculadora de ajuste de inflação do Banco Central do Brasil <a h
 
 | Mensal por aluno | Mensal por grupo    | 3 meses      |
 | ---------------- | --------------      | -------      |
-| R$ 71.00         | R$ 781.00           | R$ 2157.00   |
+| R$ 71.00         | R$ 781.00           | R$ 2343.00   |
 
 ## Custo de equipamentos
 
@@ -57,16 +58,20 @@ Utilizando a calculadora de ajuste de inflação do Banco Central do Brasil <a h
 * Deve possui SSD de 256 GB ou superior;
 
 
-<p align="justify" style="text-indent: 20px">Usando como base essas especificações de hardware, um Notebook Acer Aspire 5 A515-54G-55HW Intel Core I5 8GB 256GB SSD Windows 11 15,6” Prata teria o custo de R$ 3.699,00. Sendo assim, para 11 participantes, o custo total de R$ 40.689,00.</p>
+<p align="justify" style="text-indent: 20px">Usando como base essas especificações de hardware, um Notebook Acer Aspire 5 A515-54G-55HW Intel Core I5 8GB 256GB SSD Windows 11 15,6” Prata teria o custo de <b>R$ 3.699,00</b>. Sendo assim, para 11 participantes, o custo total de <b>R$ 40.689,00.</b></p>
 
-## Planilha do EVM
+## Earned Value Management (EVM)
 
-Link: <a href='https://docs.google.com/spreadsheets/d/16Ntk4OPcsMS6YJWFJb8Zxa9z8DG2cJIcbjo8YPOaePE/edit?usp=sharing'>planilha EVM</a>
+<p align="justify" style="text-indent: 20px">
+Para ter uma avaliação mais completa dos custos durante todo o curso do projeto, optou-se por utilizar a análise ágil EVM (<i>Earned Value Management</i> ou Gestão de Valor Agregado). Essa técnica faz a medição de três principais fatores do projeto: Custos, Tempo e Escopo, podendo ser expandida para utilizar outras características como qualidade [<a href=./#referencia>3</a>].
+</p>
 
+<p align="justify" style="text-indent: 20px">
+Através de cada <i>sprint</i> do projeto, três métricas serão coletadas: Valor Planejado (VP), Valor Agregado (VA) e Custo Atual (CA), sendo utilizadas para o cálculo e análise dos custos do projeto. Toda a análise pode ser acessada por aqui <a href='https://docs.google.com/spreadsheets/d/e/2PACX-1vT3rHd0sywGAqNVUB26yKJGPKO5lHDWYpCsK1WDwUwbnl6-9-V4WmqEBnthWo1D_5EWaiUFpL5qlTZq/pubhtml?widget=true&amp;headers=false'>aqui</a> ou pela visualização abaixo:
+</p>
 
-EVM
+<iframe style="width: 100%; height: 500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT3rHd0sywGAqNVUB26yKJGPKO5lHDWYpCsK1WDwUwbnl6-9-V4WmqEBnthWo1D_5EWaiUFpL5qlTZq/pubhtml?widget=true&amp;headers=false"></iframe>
 
-<iframe  style="width: 100%; height: 500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT3rHd0sywGAqNVUB26yKJGPKO5lHDWYpCsK1WDwUwbnl6-9-V4WmqEBnthWo1D_5EWaiUFpL5qlTZq/pubhtml?gid=268796454&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## Referência
 
@@ -74,4 +79,4 @@ EVM
 
 > [2] **BCB - Calculadora do cidadão**. Bcb.gov.br. Disponível em: [https://www3.bcb.gov.br/CALCIDADAO/publico/corrigirPorIndice.do?method=corrigirPorIndice](https://www3.bcb.gov.br/CALCIDADAO/publico/corrigirPorIndice.do?method=corrigirPorIndice). Acesso em: 16 nov. 2022.
 
-‌
+> [3] **What Is Agile Earned Value Management (EVM)?**. Wrike. Disponível em: [https://www.wrike.com/agile-guide/faq/what-is-agile-evm/](https://www.wrike.com/agile-guide/faq/what-is-agile-evm/). Acesso em: 24 nov. 2022.
