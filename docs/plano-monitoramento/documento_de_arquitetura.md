@@ -5,6 +5,7 @@
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
 |13/11/2022|1.0|Criação do documento| João Victor Valadão e Ítalo Fernandes |
+|13/11/2022|1.1|Adicionando Tecnologias| Ítalo Fernandes e João Victor Valadão |
 
 
 
@@ -26,32 +27,34 @@
 * Referências: Emprega as fontes utilizadas nas pesquisas para relacionar as publicações que foram consultadas e citadas.
 
 ## Representação de Arquitetura
-<!-- 
-- **Python**: Linguagem de programação alto nível que possibilita a estabilidade de projetos que podem ser altamente escalaveis. Pode ser usada para criar interfaces simples no terminal de computadores.
 
-- **JavaScript/TypeScript**: Linguagem de programação de alto nível que é interpretada estruturada. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. Utilizaremos o TypeScript que adiciona tipagem estática opcional no JavaScript.
+## Tecnologias
+
+- **Python**: Uma linguagem de programação de alto nível que permite a estabilidade do projeto com alta escalabilidade. Ele pode ser usado para criar interfaces simples em terminais de computadores.
+
+- **JavaScript/TypeScript**: Uma linguagem de programação de alto nível que é interpretada de forma estruturada. JavaScript é uma das três principais tecnologias da World Wide Web, junto com HTML e CSS. Usaremos TypeScript, que estende o JavaScript com digitação estática opcional.
 
 ### Frontend
 
-- **React**: Framework em JavaScript e que possui suporte a TypeScript, desenvolvido pelo Facebook. Possibilita a criação de páginas web de forma simples e mais rápida que o clássico HTML, CSS e JavaScript.
+- **React**: Um framework em JavaScript que suporta TypeScript, desenvolvida pelo Facebook. Proporciona o desenvolvimento de sites com mais facilidade e rapidez do que os tradicionais HTML, CSS e JavaScript.
 
-- **Next.js**: Estrutura da web de desenvolvimento front-end React de código aberto criada por Vercel que permite funcionalidades como renderização do lado do servidor e geração de sites estáticos para aplicativos da web baseados em React.
+- **Next.js**: Uma estrutura da Web de desenvolvimento front-end React de código aberto criada pela Vercel, que permite geração de sites estáticos para aplicativos da Web baseados em React e recursos como renderização do lado do servidor.
 
 ### Backend
 
-- **Django**: Framework open source baseado em Python. Desenvolvido com o intuito de reslver problemas comuns durante o desenvolvimento web. Altamente escalavel e robusto.
+- **Django**: um Framework open source baseado em Python. Altamente escalável e robusto, foi projetado para resolver problemas comuns durante o desenvolvimento web.
 
-- **Jupyter Notebook**: É uma ferramenta open source que possibilita a criação e manipulação de Notebooks. Tecnologia baseada em Python.
+- **Jupyter Notebook**: Uma ferramenta open source para criar e editar Notebooks. Sendo uma tecnologia baseada em Python.
 
 ### CLI
 
-**CLI** significa do inglês 'Interface de Linha de Comando'. É um programa que permite que os usuários escrevam os comandos para determinada funcionalidade passando instruções para o computador.
+**CLI** Abreviação de "interface de linha de comando". Este é um programa que permite aos usuários criar comandos para funções específicas passando instruções para o computador.
 
 - **PyPI**: O Python Package Index é um repositório para armazenar pacotes de código escritos na linguagem de programação **Python**.
 
 ### Banco de dados
 
-- **PostgreSQL**: Sistema gerenciador de banco de dados relacionais de código aberto. Tem função de gerenciar dados de maneira organizada e eficaz. -->
+- **PostgreSQL**: Um sistema de gerenciamento de banco de dados relacional de software livre. Tem a capacidade de gerir os dados de forma organizada e eficaz.
 
 
 ## Metas e Restrições de Arquitetura
