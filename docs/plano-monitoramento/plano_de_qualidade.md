@@ -7,6 +7,7 @@
 |27/11/2022|0.1|Criação do documento| Ítalo Alves |
 |27/11/2022|1.0|Adição dos tópicos de introdução e objetivos do plano| João Moura|
 |27/11/2022|1.1|Adição dos objetivos de qualidade e tópico sobre verificação e validação | João Moura|
+|27/11/2022|1.2|Adição tópico inicial de métricas e referências | João Moura|
 
 ## Introdução
 
@@ -62,3 +63,67 @@ Entendendo os objetivos de qualidade que desejam ser atendidos no projeto, parte
 <b>Validações com os donos do projeto</b>: Por fim, uma validação que não envolve o contato direto com linhas de código é a validação com os donos/usuários do projeto. Essa propõe que através de reuniões semanais, seja validado o que já está pronto e com isso decisões sobre o rumo do produto (priorizações) sejam tomadas mais facilmente.
 </p>
 
+## Padrões, práticas, convenções e métricas
+
+<p align="justify" style="text-indent: 20px">
+A existência de padrões de software, tem garantido cada vez mais qualidade no desenvolvimento do produto, já que conseguem identificar as melhores práticas. Com isso, a utilização de métricas permite a identificação de padrões de código que não são desejaveis nos produto final, pois não seguem padrões previamente definidos. Apesar disso, é importante ressaltar que mesmo essas métricas serem universalmente aplicaveis, tudo depende dos objetivos de qualidade esperados no produto.
+</p>
+
+### ISOs e Modelos de Qualidade
+
+<p align="justify" style="text-indent: 20px">
+Como principal ISO e modelo utilizados no projeto, pode-se citar:
+</p>
+
+- NBR - ISO/IEC 9126-1 [<a href=./#referencia>1</a>]
+- Modelo de Qualidade Q-Rapids [<a href=./#referencia>2</a>]
+
+<p align="justify" style="text-indent: 20px">
+Além disso, os seguintes modelos podem ser citados como bibliografia:
+</p>
+
+- QUAMOCO [<a href=./#referencia>3</a>]
+- SQuale
+- QATCH
+- QuASE
+
+### Métricas
+
+<p align="justify" style="text-indent: 20px">
+Para medir a qualidade do software, deve-se determinar quais características medir e como medir (Boehm, 1981) [<a href=./#referencia>4</a>]. Portanto, utilizando-se das métricas é possível derivar as subcaracterísticas e consequentemente as características do produto avaliado, indicando sua qualidade, avaliando sua produtividade e aferindo resultados que podem ser decisivos para o rumo do projeto.
+</p>
+
+<p align="justify" style="text-indent: 20px">
+Para tanto, as seguintes métricas [<a href=./#referencia>5</a>] foram definidas para o projeto:
+</p>
+
+<center>
+
+|Métrica|Descrição|
+|--|--|
+|Files|Quantidade de arquivos de código|
+|Functions|Quantidade de funções no código|
+|Complexity|Complexidade ciclomática|
+|Comment Lines Density|Densidade (%) de linhas comentadas|
+|Duplicated Lines density|Densidade (%) de linhas duplicadas|
+|Coverage|Cobertura de código pelos testes|
+|Ncloc|Quantidade de linhas de código|
+|Tests|Testes unitários e de integração|
+|Test Errors|Teste que possuem erros|
+|Test Failures|Testes que falharam|
+|Test Execution Time|Tempo de execução dos testes|
+|Security Rating|Avaliação de segurança de falhas e vulnerabilidades|
+
+</center>
+
+## Referência
+
+> [1] **NBR - ISO/IEC 9126-1**. Software engineering - Product quality - Part 1: Quality model. 2003.
+
+> [2] **Quality-aware Rapid Software Development Project: The Q-Rapids Project**. FRANCH X.; LOPEZ L.; FERNÁNDEZ S. M.; ORIOL M.; RODRÍGUEZ P.; TRENDOWICZ A.
+
+> [3] **A Quality Model for Actionable Analytics in Rapid Software Development**. FERNÁNDEZ S. M.; JEDLITSCHKA A.; GUZMÁN L.; VOLLMER A. M. Kaiserslautern, Alemanha.
+
+> [4] **Software Engineering Economics**. BOEHM B. 1981.
+
+> [5] **Metric Definitions**. SonarQube. Disponível em: [https://docs.sonarqube.org/latest/user-guide/metric-definitions/](https://docs.sonarqube.org/latest/user-guide/metric-definitions/). Acesso em: 27 nov. 2022.
