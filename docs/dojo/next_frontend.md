@@ -3,6 +3,7 @@
 Data|Versão|Descrição|Autor(es)
 -|-|-|-
 27/11/2022|0.1| Criação do documento |Lucas Melo|
+28/11/2022|0.1.2| Adicionado vídeo do dojo |Lucas Melo|
 
 
 ## Introdução
@@ -19,6 +20,7 @@ O dojo foi gravado com intuito de mostrar as principais funcionalidades do frame
 
 ## Resultados
 
+<iframe width="853" height="480" src="https://www.youtube.com/embed/_oQX7Vkzyu8" title="dojoNext" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Referências
 
