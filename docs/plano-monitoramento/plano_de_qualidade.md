@@ -2,12 +2,13 @@
 
 ## Versionamento
 
-| Data | Versão | Descrição | Autor(es) |
-|------|------|------|------|
-|27/11/2022|0.1|Criação do documento| Ítalo Alves |
-|27/11/2022|1.0|Adição dos tópicos de introdução e objetivos do plano| João Moura|
-|27/11/2022|1.1|Adição dos objetivos de qualidade e tópico sobre verificação e validação | João Moura|
-|27/11/2022|1.2|Adição tópico inicial de métricas e referências | João Moura|
+| Data       | Versão | Descrição                                                                | Autor(es)   |
+| ---------- | ------ | ------------------------------------------------------------------------ | ----------- |
+| 27/11/2022 | 0.1    | Criação do documento                                                     | Ítalo Alves |
+| 27/11/2022 | 1.0    | Adição dos tópicos de introdução e objetivos do plano                    | João Moura  |
+| 27/11/2022 | 1.1    | Adição dos objetivos de qualidade e tópico sobre verificação e validação | João Moura  |
+| 27/11/2022 | 1.2    | Adição tópico inicial de métricas e referências                          | João Moura  |
+| 28/11/2022 | 1.3    | Adição dos tópicos de Testes e Controle de Código                        | Ítalo Alves |
 
 ## Introdução
 
@@ -38,12 +39,12 @@ Seguindo os objetivos propostos nas ISO 9126-1 de 2003, dois serão os pontos fo
 </p>
 
 - <p align="justify">
-A <b>qualidade interna e externa</b> tem como principal objetivo avaliar o produto, através de 6 características principais (Funcionalidade, Confiabilidade, Usabilidade, Eficiência, Manutenabilidade e Portabilidade), divididas em diversas subcaracterĩ́sticas. Essas subcaracterísticas são manifestadas externamentes quando o software é utilizado, sendo resultantes de atributos internos do produto.
-</p>
+  A <b>qualidade interna e externa</b> tem como principal objetivo avaliar o produto, através de 6 características principais (Funcionalidade, Confiabilidade, Usabilidade, Eficiência, Manutenabilidade e Portabilidade), divididas em diversas subcaracterĩ́sticas. Essas subcaracterísticas são manifestadas externamentes quando o software é utilizado, sendo resultantes de atributos internos do produto.
+  </p>
 
 - <p align="justify">
-Por sua vez, a <b> qualidade de uso</b> especifica apenas 4 principais características (Eficácia, Produtividade, Segurança e Satisfação), obtidas pela combinação das 6 características de qualidade (interna e externa) definidas previamentes pela ISO.
-</p>
+  Por sua vez, a <b> qualidade de uso</b> especifica apenas 4 principais características (Eficácia, Produtividade, Segurança e Satisfação), obtidas pela combinação das 6 características de qualidade (interna e externa) definidas previamentes pela ISO.
+  </p>
 
 ## Verificação e validação
 
@@ -52,16 +53,16 @@ Entendendo os objetivos de qualidade que desejam ser atendidos no projeto, parte
 </p>
 
 - <p align="justify">
-<b>Análise estática do código</b>: Essa primeira técnica envolve a utilização de ferramentas de análise estática de código para a obtenção de métricas que podem ser avalidas e quantificadas. A ferramenta Sonar Cloud foi selecionada para realizar essa ação, gerando informações importantes para a gerência de qualidade do projeto.
-</p>
+  <b>Análise estática do código</b>: Essa primeira técnica envolve a utilização de ferramentas de análise estática de código para a obtenção de métricas que podem ser avalidas e quantificadas. A ferramenta Sonar Cloud foi selecionada para realizar essa ação, gerando informações importantes para a gerência de qualidade do projeto.
+  </p>
 
 - <p align="justify">
-<b>Testes automatizados</b>: Além da análise estática, a documentação por testes automatizados (unitários e de integração), também foi utilizada para a realização do gerênciamento. Por meio dessa técnica, a equipe consegue validar não apenas os caminhos esperados, mas também situações de erros que são importantes de serem tratados.
-</p>
+  <b>Testes automatizados</b>: Além da análise estática, a documentação por testes automatizados (unitários e de integração), também foi utilizada para a realização do gerênciamento. Por meio dessa técnica, a equipe consegue validar não apenas os caminhos esperados, mas também situações de erros que são importantes de serem tratados.
+  </p>
 
 - <p align="justify">
-<b>Validações com os donos do projeto</b>: Por fim, uma validação que não envolve o contato direto com linhas de código é a validação com os donos/usuários do projeto. Essa propõe que através de reuniões semanais, seja validado o que já está pronto e com isso decisões sobre o rumo do produto (priorizações) sejam tomadas mais facilmente.
-</p>
+  <b>Validações com os donos do projeto</b>: Por fim, uma validação que não envolve o contato direto com linhas de código é a validação com os donos/usuários do projeto. Essa propõe que através de reuniões semanais, seja validado o que já está pronto e com isso decisões sobre o rumo do produto (priorizações) sejam tomadas mais facilmente.
+  </p>
 
 ## Padrões, práticas, convenções e métricas
 
@@ -99,22 +100,42 @@ Para tanto, as seguintes métricas [<a href=./#referencia>5</a>] foram definidas
 
 <center>
 
-|Métrica|Descrição|
-|--|--|
-|Files|Quantidade de arquivos de código|
-|Functions|Quantidade de funções no código|
-|Complexity|Complexidade ciclomática|
-|Comment Lines Density|Densidade (%) de linhas comentadas|
-|Duplicated Lines density|Densidade (%) de linhas duplicadas|
-|Coverage|Cobertura de código pelos testes|
-|Ncloc|Quantidade de linhas de código|
-|Tests|Testes unitários e de integração|
-|Test Errors|Teste que possuem erros|
-|Test Failures|Testes que falharam|
-|Test Execution Time|Tempo de execução dos testes|
-|Security Rating|Avaliação de segurança de falhas e vulnerabilidades|
+| Métrica                  | Descrição                                           |
+| ------------------------ | --------------------------------------------------- |
+| Files                    | Quantidade de arquivos de código                    |
+| Functions                | Quantidade de funções no código                     |
+| Complexity               | Complexidade ciclomática                            |
+| Comment Lines Density    | Densidade (%) de linhas comentadas                  |
+| Duplicated Lines density | Densidade (%) de linhas duplicadas                  |
+| Coverage                 | Cobertura de código pelos testes                    |
+| Ncloc                    | Quantidade de linhas de código                      |
+| Tests                    | Testes unitários e de integração                    |
+| Test Errors              | Teste que possuem erros                             |
+| Test Failures            | Testes que falharam                                 |
+| Test Execution Time      | Tempo de execução dos testes                        |
+| Security Rating          | Avaliação de segurança de falhas e vulnerabilidades |
 
 </center>
+
+## Testes
+
+<p align="justify" style="text-indent: 20px">
+Testes de software é um conjunto de processos com os quais se pretende validar um sistema ou aplicação, em momentos diferentes, para verificar seu correto funcionamento. São uma série de procedimentos que visam encontrar possíveis bugs, reportar erros, identificar problemas de usabilidade, bem como assegurar que todos os requisitos solicitados pelo cliente sejam atendidos. [<a href=./#referencia>6</a>]
+</p>
+Alguns tipos de testes de software:
+
+- Teste de Unidade: É utilizado para validar se um pedaço do código está funcionando corretamente;
+- Teste de Integração: É utilizado para verificar a integração correta entre os diferentes componentes;
+- Teste de Caixa-Branca: Garante a análise de todos os caminhos independentes de cada módulo, programa ou método;
+- Teste Caixa-Preta: É utilizado para verificar todas as entradas e saídas desejadas.
+
+## Ferramentas, técnicas e metodologias
+
+## Controle de código
+
+<p align="justify" style="text-indent: 20px">
+O controle do código-fonte (ou controle de versões) é a prática de monitoramento e gerenciamento de alterações no código. Para garantir os procedimentos de qualidade, estão sendo realizadas tarefas automatizadas, como: documentação, controle de versão, controle de código, testes automatizados, controle de commits e outros.
+</p>
 
 ## Referência
 
@@ -127,3 +148,5 @@ Para tanto, as seguintes métricas [<a href=./#referencia>5</a>] foram definidas
 > [4] **Software Engineering Economics**. BOEHM B. 1981.
 
 > [5] **Metric Definitions**. SonarQube. Disponível em: [https://docs.sonarqube.org/latest/user-guide/metric-definitions/](https://docs.sonarqube.org/latest/user-guide/metric-definitions/). Acesso em: 27 nov. 2022.
+
+> [6] **Importância dos testes de software na qualidade do sistema**. TreinaWeb. Disponível em: [https://www.treinaweb.com.br/blog/importancia-dos-testes-de-software-na-qualidade-do-sistema](https://www.treinaweb.com.br/blog/importancia-dos-testes-de-software-na-qualidade-do-sistema). Acesso em: 28 nov. 2022.
