@@ -4,9 +4,10 @@
 
 | Data | Versão | Descrição | Autor(es) |
 |------|------|------|------|
-|13/11/2022|1.0|Criação do documento| João Victor Valadão e Ítalo Fernandes |
-|13/11/2022|1.1|Adicionando Tecnologias| Ítalo Fernandes e João Victor Valadão |
-|13/11/2022|1.2|Adicionando Metas e Restrições| Ítalo Fernandes e João Victor Valadão |
+|28/11/2022|1.0|Criação do documento| João Victor Valadão e Ítalo Fernandes |
+|28/11/2022|1.1|Adicionando Tecnologias| Ítalo Fernandes e João Victor Valadão |
+|28/11/2022|1.2|Adicionando Metas e Restrições| Ítalo Fernandes e João Victor Valadão |
+|29/11/2022|1.3|Adicionando Diagrama arquitetural | João Victor Valadão e Ítalo Fernandes |
 
 
 
@@ -56,6 +57,10 @@
 #### Banco de dados
 
 - **PostgreSQL**: Um sistema de gerenciamento de banco de dados relacional de software livre. Tem a capacidade de gerir os dados de forma organizada e eficaz.
+
+## Diagrama arquitetural
+
+![Diagrama arquitetural](assets/diagrama_arquitetura.png)
 
 
 ## Metas e Restrições de Arquitetura
