@@ -3,18 +3,19 @@
 Data|Versão|Descrição|Autor(es)
 -|-|-|-
 27/11/2022|0.1| Criação do documento |Lucas Melo|
-28/11/2022|0.1.2| Adicionado vídeo do dojo |Lucas Melo|
+28/11/2022|1.0| Adicionado vídeo do dojo |Lucas Melo|
+28/11/2022|1.0.1| Revisão do documento |João Moura|
 
 
 ## Introdução
 <p align="justify">&emsp;&emsp;
-O frontend do MeasureSoftGram utiliza o framework NextJs, um framework para React que adiciona diversas funcionalidades em cima do mesmo. Algumas funcionalidades são: renderização estática e renderização do lado do servidor. O framework também da recursos como criação de páginas e roteamento dinâmico, criação de layouts, etc.
+O frontend do MeasureSoftGram utiliza o framework NextJs, um framework para React que adiciona diversas funcionalidades em cima do mesmo. Algumas funcionalidades incluem: renderização estática e renderização do lado do servidor. O framework também disponibiliza recursos como criação de páginas, roteamento dinâmico, criação de layouts, entre outros.
 </p>
 
 ## Metodologia
 
 <p align="justify">&emsp;&emsp;
-O dojo foi gravado com intuito de mostrar as principais funcionalidades do framework e também mostrar a atual estrutura do frontend do MeasureSoftGram. Dessa forma foi abordado a definição de "lado do servidor" e "lado do cliente", a atual estrutura de pastas e as configurações do framework. Os conceitos citados podem ser encontrados na documentação oficial do framework no link <a href="https://nextjs.org/docs/getting-started">https://nextjs.org/docs/getting-started</a>
+O dojo foi gravado com intuito de mostrar as principais funcionalidades do framework e também a atual estrutura do frontend do MeasureSoftGram. Dessa forma foi abordado a definição de "lado do servidor" e "lado do cliente", a atual estrutura de pastas e as configurações do framework. Os conceitos citados podem ser encontrados na documentação oficial do framework no link: <a href="https://nextjs.org/docs/getting-started">https://nextjs.org/docs/getting-started</a>
 </p>
 
 
