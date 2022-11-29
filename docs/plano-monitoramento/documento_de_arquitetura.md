@@ -8,6 +8,7 @@
 |28/11/2022|1.1|Adicionando Tecnologias| Ítalo Fernandes e João Victor Valadão |
 |28/11/2022|1.2|Adicionando Metas e Restrições| Ítalo Fernandes e João Victor Valadão |
 |29/11/2022|1.3|Adicionando Diagrama arquitetural | João Victor Valadão e Ítalo Fernandes |
+|29/11/2022|1.4|Adicionando diagramas de pacotes e atualização do diagrama arquitetural | João Victor Valadão e Ítalo Fernandes |
 
 
 
@@ -62,6 +63,23 @@
 
 ![Diagrama arquitetural](assets/diagrama_arquitetura.png)
 
+## Diagrama de Pacotes
+
+### Web
+
+![Diagrama pacotes web](assets/diagrama_web.png)
+
+### Service
+
+![Diagrama pacotes web](assets/diagrama_service.png)
+
+### Core
+
+![Diagrama pacotes web](assets/diagrama_core.png)
+
+### CLI
+
+#### Diagrama em produção...
 
 ## Metas e Restrições de Arquitetura
 
@@ -93,3 +111,5 @@
 > Template Documento de Arquitetura de Software. Disponível em: < [https://github.com/DroidFoundry/DroidMetronome/wiki/TEMPLATE-Documento-de-Arquitetura-de-Software](https://github.com/DroidFoundry/DroidMetronome/wiki/TEMPLATE-Documento-de-Arquitetura-de-Software) > Acesso em: 28 de Novembro de 2022
 
 > Explorando Widgets e Layouts. Disponível em: < [https://medium.com/flutter-comunidade-br/explorando-widgets-e-layouts-6fd34ecb82f](https://medium.com/flutter-comunidade-br/explorando-widgets-e-layouts-6fd34ecb82f) > Acesso em: 28 de Novembro de 2022
+
+> Arquitetura do Sistema (MeasureSoftGram-2022-1). Disponível em: < [https://fga-eps-mds.github.io/2022-1-MeasureSoftGram-Doc/#/documentos/documento_de_arquitetura](https://fga-eps-mds.github.io/2022-1-MeasureSoftGram-Doc/#/documentos/documento_de_arquitetura) > Acesso em: 29 de Novembro de 2022
