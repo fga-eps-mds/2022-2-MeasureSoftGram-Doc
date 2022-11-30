@@ -9,6 +9,7 @@
 | 27/11/2022 | 1.1    | Adição dos objetivos de qualidade e tópico sobre verificação e validação | João Moura  |
 | 27/11/2022 | 1.2    | Adição tópico inicial de métricas e referências                          | João Moura  |
 | 28/11/2022 | 1.3    | Adição dos tópicos de Testes e Controle de Código                        | Ítalo Alves |
+| 29/11/2022 | 1.4    | Adição dos tópicos de Métricas, Ferramentas e Coleta                     | Ítalo Alves |
 
 ## Introdução
 
@@ -117,6 +118,30 @@ Para tanto, as seguintes métricas [<a href=./#referencia>5</a>] foram definidas
 
 </center>
 
+### Métricas para o produto
+
+<p align="justify" style="text-indent: 20px">
+Com os valores coletados das métricas, temos um indicativo sobre a qualidade do produto. Dessa forma, é possível definir valores mínimos aceitáveis para cada métrica, fazendo com que o produto atenda pelo menos esses indicativos.
+
+Para definir os valores das métricas aceitáveis selecionadas, para a qualidade interna, usamos como base as métricas definidas no Q-rapids e SonarCloud indicadas abaixo:
+
+</p>
+
+<center>
+
+| Metrica                      | Valor        |
+| ---------------------------- | ------------ |
+| Complexity                   | até 10       |
+| Comment Lines Density (%)    | até 30%      |
+| Duplicated Lines Density (%) | até 5%       |
+| Coverage                     | acima de 60% |
+| Test Failures                | 0            |
+| Test Errors                  | 0            |
+| Security Rating              | 0 (A)        |
+| Satisfação do usuário        | acima de 3   |
+
+</center>
+
 ## Testes
 
 <p align="justify" style="text-indent: 20px">
@@ -130,6 +155,13 @@ Alguns tipos de testes de software:
 - Teste Caixa-Preta: É utilizado para verificar todas as entradas e saídas desejadas.
 
 ## Ferramentas, técnicas e metodologias
+
+- [Pytest](https://docs.pytest.org/en/latest/): Framework de testes para Python;
+- [Jest](https://jestjs.io/): Framework de testes para TypeScript;
+- [ESLint](https://eslint.org/): Ferramenta de verificação de código, que garante que o código esteja de acordo com os padrões encontrados no ECMAScript;
+- [Prettier](https://prettier.io/): Ferramenta formatadora de código;
+- [Codecov](https://codecov.io/): Ferramenta que verifica cobertura de código;
+- [SonarCloud](https://sonarcloud.io/): Ferramenta de varredura de código para analisar o código de acordo com as regras e métricas definidas.
 
 ## Controle de código
 
