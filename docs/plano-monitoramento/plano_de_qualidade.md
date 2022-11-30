@@ -169,6 +169,19 @@ Alguns tipos de testes de software:
 O controle do código-fonte (ou controle de versões) é a prática de monitoramento e gerenciamento de alterações no código. Para garantir os procedimentos de qualidade, estão sendo realizadas tarefas automatizadas, como: documentação, controle de versão, controle de código, testes automatizados, controle de commits e outros.
 </p>
 
+## Coleta e manutenção
+
+<p align="justify" style="text-indent: 20px">
+O objetivo do processo de Manutenção de sistema de software é modificar o produto de sistema/software depois de liberado, para corrigir falhas, melhorar desempenho ou outros atributos ou adaptar às mudanças do ambiente.
+
+</p>
+Existem algumas categorias de manutenção:
+
+- Manutenção Adaptativa: Adaptar o software ao ambiente;
+- Manutenção Corretiva: Identificar e Corrigir Erros;
+- Mnutenção Preventiva: Melhorar a manutenibilidade ou confiabilidade futuras;
+- Manutenção Perfectiva: Atender pedidos do usuário para modificar funções existentes, incluir novas e efetuar melhoramentos gerais.
+
 ## Referência
 
 > [1] **NBR - ISO/IEC 9126-1**. Software engineering - Product quality - Part 1: Quality model. 2003.
