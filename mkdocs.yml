@@ -23,3 +23,5 @@ nav:
       - Política de Branches: politicas/branches.md
       - Política de Commits: politicas/commits.md
       - Código de conduta: politicas/CODE_OF_CONDUCT.md
+    - Dojos:
+      - Frontend: dojo/next_frontend.md
