@@ -9,6 +9,7 @@
 |28/11/2022|1.2|Adicionando Metas e Restrições| Ítalo Fernandes e João Victor Valadão |
 |29/11/2022|1.3|Adicionando Diagrama arquitetural | João Victor Valadão e Ítalo Fernandes |
 |29/11/2022|1.4|Adicionando diagramas de pacotes e atualização do diagrama arquitetural | João Victor Valadão e Ítalo Fernandes |
+|30/11/2022|1.5| Atualização da arquitetura diagrama de pacotes | João Victor Valadão e Ítalo Fernandes |
 
 
 
@@ -20,7 +21,7 @@
 
 ### Escopo
 
-<p align = "justify"> &emsp;&emsp; Atráves desse documento, é possível obter um melhor entendimento da arquitetura do projeto, permitindo ao leitor a compreensão do funcionamento do sistema e as abordagens utilizadas para o seu desenvolvimento.</p>
+<p align = "justify"> &emsp;&emsp; Através desse documento, é possível obter um melhor entendimento da arquitetura do projeto, permitindo ao leitor a compreensão do funcionamento do sistema e as abordagens utilizadas para o seu desenvolvimento.</p>
 
 ### Visão Geral
 
@@ -71,15 +72,15 @@
 
 ### Service
 
-![Diagrama pacotes web](assets/diagrama_service.png)
+![Diagrama pacotes service](assets/diagrama_service.png)
 
 ### Core
 
-![Diagrama pacotes web](assets/diagrama_core.png)
+![Diagrama pacotes core](assets/diagrama_core.png)
 
 ### CLI
 
-#### Diagrama em produção...
+![Diagrama pacotes cli](assets/diagrama_cli.png)
 
 ## Metas e Restrições de Arquitetura
 
