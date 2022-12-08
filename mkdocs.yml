@@ -6,21 +6,22 @@ theme:
   features: navigation.tabs
 
 nav:
-  - Home: index.html
+  - Home: index.md
   - Equipe:
-    - Agenda e Ferramentas: equipe/agenda-e-ferramentas.md
-    - Conhecimento e Disponibilidade: equipe/conhecimento-e-disponibilidade.md
+      - Agenda e Ferramentas: equipe/agenda-e-ferramentas.md
+      - Conhecimento e Disponibilidade: equipe/conhecimento-e-disponibilidade.md
   - Plano e Monitoramento:
-    - Estrutura Análitica do Projeto: plano-monitoramento/EAP.md
-    - Termo de Abertura do Projeto: plano-monitoramento/tap.md
-    - Custos do Projeto: plano-monitoramento/custo_projeto.md
-    - Analise de Riscos: plano-monitoramento/analise_riscos.md
+      - Estrutura Análitica do Projeto: plano-monitoramento/EAP.md
+      - Termo de Abertura do Projeto: plano-monitoramento/tap.md
+      - Custos do Projeto: plano-monitoramento/custo_projeto.md
+      - Analise de Riscos: plano-monitoramento/analise_riscos.md
+      - Plano de Qualidade do Produto: plano-monitoramento/plano_de_qualidade.md
   # - Visão de Produto:
   #   -
   - Contribuição:
-    - Como contribuir?: politicas/contribuindo.md
-    - Política de Branches: politicas/branches.md
-    - Política de Commits: politicas/commits.md
-    - Código de conduta: politicas/CODE_OF_CONDUCT.md
+      - Como contribuir?: politicas/contribuindo.md
+      - Política de Branches: politicas/branches.md
+      - Política de Commits: politicas/commits.md
+      - Código de conduta: politicas/CODE_OF_CONDUCT.md
   - Dojos:
     - Frontend: dojo/next_frontend.md
