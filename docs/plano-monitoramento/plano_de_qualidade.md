@@ -10,33 +10,34 @@
 | 27/11/2022 | 1.2    | Adição tópico inicial de métricas e referências                          | João Moura  |
 | 28/11/2022 | 1.3    | Adição dos tópicos de Testes e Controle de Código                        | Ítalo Alves |
 | 29/11/2022 | 1.4    | Adição dos tópicos de Métricas, Ferramentas e Coleta                     | Ítalo Alves |
+| 07/12/2022 | 1.4.1    | Revisão e correção ortográfica                     | Rafael Ramos |
 
 ## Introdução
 
 <p align="justify" style="text-indent: 20px">
-Não só Escopo, Tempo e Custo influênciam no gerênciamento de projetos de software, mas também os atributos de qualidade. Segundo ISO 9126-1 (2003) [<a href=./#referencia>1</a>], "qualidade é a totalidade de características e critérios de um produto ou serviço que exercem suas habilidades para satisfazer às necessidades declaradas ou envolvidas", mostrando dessa forma a importância dessa característica para o gerênciamento do projeto.
+Não só Escopo, Tempo e Custo influenciam no gerenciamento de projetos de software, mas também os atributos de qualidade. Segundo ISO 9126-1 (2003) [<a href=./#referencia>1</a>], "qualidade é a totalidade de características e critérios de um produto ou serviço que exercem suas habilidades para satisfazer às necessidades declaradas ou envolvidas", mostrando dessa forma a importância dessa característica para o gerenciamento do projeto.
 </p>
 
 ## Objetivos do Plano de Qualidade
 
 <p align="justify" style="text-indent: 20px">
-Para entender melhor o planejamento da qualidade no projeto, esse documento visa, portanto, especificar procedimentos, técnicas e ferramentas que serão utilizadas para que os requisitos de qualidade sejam contemplados durante o desenvolvimento do projeto. Para mensurar e acompanhar essa evolução de qualidade serão utilizadas em especial métricas, avaliando, dessa forma, quantitativamente.
+Para entender melhor o planejamento da qualidade no projeto, esse documento visa, portanto, especificar procedimentos, técnicas e ferramentas que serão utilizadas para que os requisitos de qualidade sejam contemplados durante o desenvolvimento do projeto. Para mensurar e acompanhar essa evolução de qualidade serão utilizadas, em especial, métricas, que corroboram em uma avaliação quantitativa.
 </p>
 
 <p align="justify" style="text-indent: 20px">
 Com isso, definem-se os principais objetivos desse documento, sendo eles:
 </p>
 
-- Definir os objetivos da qualidade
-- Apresentar maneiras para atingir os objetivos
-- Selecionar e utilizar métricas para a aferição
-- Interpretar os resultados do uso das métricas
-- Especificar procedimentos, técnicas e ferramentas utilizadas
+- Definir os objetivos da qualidade;
+- Apresentar maneiras para atingir os objetivos;
+- Selecionar e utilizar métricas para a aferição;
+- Interpretar os resultados do uso das métricas;
+- Especificar procedimentos, técnicas e ferramentas utilizadas.
 
 ## Objetivos de qualidade
 
 <p align="justify" style="text-indent: 20px">
-Seguindo os objetivos propostos nas ISO 9126-1 de 2003, dois serão os pontos focais da análise de qualidade do projeto: a <b>qualidade interna e externa</b> e a <b>qualidade de uso</b>.
+Seguindo os objetivos propostos nas ISO 9126-1 de 2003, os pontos focais da análise de qualidade do projeto serão: a <b>qualidade interna e externa</b> e a <b>qualidade de uso</b>.
 </p>
 
 - <p align="justify">
@@ -54,11 +55,11 @@ Entendendo os objetivos de qualidade que desejam ser atendidos no projeto, parte
 </p>
 
 - <p align="justify">
-  <b>Análise estática do código</b>: Essa primeira técnica envolve a utilização de ferramentas de análise estática de código para a obtenção de métricas que podem ser avalidas e quantificadas. A ferramenta Sonar Cloud foi selecionada para realizar essa ação, gerando informações importantes para a gerência de qualidade do projeto.
+  <b>Análise estática do código</b>: Essa primeira técnica envolve a utilização de ferramentas de análise estática de código para a obtenção de métricas que podem ser avaliadas e quantificadas. A ferramenta Sonar Cloud foi selecionada para realizar essa ação, gerando informações importantes para a gerência de qualidade do projeto.
   </p>
 
 - <p align="justify">
-  <b>Testes automatizados</b>: Além da análise estática, a documentação por testes automatizados (unitários e de integração), também foi utilizada para a realização do gerênciamento. Por meio dessa técnica, a equipe consegue validar não apenas os caminhos esperados, mas também situações de erros que são importantes de serem tratados.
+  <b>Testes automatizados</b>: Além da análise estática, a documentação por testes automatizados (unitários e de integração), também foi utilizada para a realização do gerenciamento. Por meio dessa técnica, a equipe consegue validar não apenas os caminhos esperados, mas também situações de erros que são importantes de serem tratados.
   </p>
 
 - <p align="justify">
@@ -68,7 +69,7 @@ Entendendo os objetivos de qualidade que desejam ser atendidos no projeto, parte
 ## Padrões, práticas, convenções e métricas
 
 <p align="justify" style="text-indent: 20px">
-A existência de padrões de software, tem garantido cada vez mais qualidade no desenvolvimento do produto, já que conseguem identificar as melhores práticas. Com isso, a utilização de métricas permite a identificação de padrões de código que não são desejaveis nos produto final, pois não seguem padrões previamente definidos. Apesar disso, é importante ressaltar que mesmo essas métricas serem universalmente aplicaveis, tudo depende dos objetivos de qualidade esperados no produto.
+A existência de padrões de software, tem garantido cada vez mais qualidade no desenvolvimento do produto, já que conseguem identificar as melhores práticas. Com isso, a utilização de métricas permite a identificação de padrões de código que não são desejáveis no produto final, pois não seguem padrões previamente definidos. Apesar disso, é importante ressaltar que mesmo essas métricas serem universalmente aplicáveis, tudo depende dos objetivos de qualidade esperados no produto.
 </p>
 
 ### ISOs e Modelos de Qualidade
@@ -134,7 +135,7 @@ Para definir os valores das métricas aceitáveis selecionadas, para a qualidade
 | Complexity                   | até 10       |
 | Comment Lines Density (%)    | até 30%      |
 | Duplicated Lines Density (%) | até 5%       |
-| Coverage                     | acima de 60% |
+| Coverage                     | acima de 80% |
 | Test Failures                | 0            |
 | Test Errors                  | 0            |
 | Security Rating              | 0 (A)        |
@@ -145,7 +146,7 @@ Para definir os valores das métricas aceitáveis selecionadas, para a qualidade
 ## Testes
 
 <p align="justify" style="text-indent: 20px">
-Testes de software é um conjunto de processos com os quais se pretende validar um sistema ou aplicação, em momentos diferentes, para verificar seu correto funcionamento. São uma série de procedimentos que visam encontrar possíveis bugs, reportar erros, identificar problemas de usabilidade, bem como assegurar que todos os requisitos solicitados pelo cliente sejam atendidos. [<a href=./#referencia>6</a>]
+Testes de software é um conjunto de processos com os quais se planeja validar um sistema ou aplicação, em momentos diferentes, para verificar seu correto funcionamento. São uma série de procedimentos que visam encontrar possíveis bugs, reportar erros, identificar problemas de usabilidade, bem como assegurar que todos os requisitos solicitados pelo cliente sejam atendidos. [<a href=./#referencia>6</a>]
 </p>
 Alguns tipos de testes de software:
 
@@ -179,7 +180,7 @@ Existem algumas categorias de manutenção:
 
 - Manutenção Adaptativa: Adaptar o software ao ambiente;
 - Manutenção Corretiva: Identificar e Corrigir Erros;
-- Mnutenção Preventiva: Melhorar a manutenibilidade ou confiabilidade futuras;
+- Manutenção Preventiva: Melhorar a manutenibilidade ou confiabilidade futuras;
 - Manutenção Perfectiva: Atender pedidos do usuário para modificar funções existentes, incluir novas e efetuar melhoramentos gerais.
 
 ## Referência

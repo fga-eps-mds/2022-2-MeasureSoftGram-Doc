@@ -6,7 +6,7 @@ theme:
   features: navigation.tabs
 
 nav:
-  - Home: index.html
+  - Home: index.md
   - Equipe:
       - Agenda e Ferramentas: equipe/agenda-e-ferramentas.md
       - Conhecimento e Disponibilidade: equipe/conhecimento-e-disponibilidade.md
@@ -23,5 +23,5 @@ nav:
       - Política de Branches: politicas/branches.md
       - Política de Commits: politicas/commits.md
       - Código de conduta: politicas/CODE_OF_CONDUCT.md
-    - Dojos:
-      - Frontend: dojo/next_frontend.md
+  - Dojos:
+    - Frontend: dojo/next_frontend.md
