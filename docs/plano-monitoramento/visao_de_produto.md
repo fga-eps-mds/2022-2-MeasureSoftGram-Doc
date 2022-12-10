@@ -66,6 +66,15 @@ Foram realizadas algumas reuniões para a definição desse artefato:
 
 ## Sequenciador
 
+Essa etapa auxilia na organização e visualizãção das funcionalidades e da sequência de validação incremental do produto.
+
+![Sequenciador](assets/sequenciador.png)
+
+Foram realizadas algumas reuniões para a definição desse artefato:
+
+- A primeira foi realizada no dia 23/11/22 (19h), via Teams, e durou cerca de 30 minutos.
+- A segunda foi realizada no dia 25/11/22 (17h), via Teams, e durou cerca de 1 hora e 30 minutos.
+
 ## Canva MVP
 
 ## Referência
