@@ -15,7 +15,7 @@ nav:
     - Termo de Abertura do Projeto: plano-monitoramento/tap.md
     - Custos do Projeto: plano-monitoramento/custo_projeto.md
     - Analise de Riscos: plano-monitoramento/analise_riscos.md
-  # - Visão de Produto:
+    - Visão de Produto: plano-monitoramento/visao_de_produto.md
   #   -
   - Contribuição:
     - Como contribuir?: politicas/contribuindo.md

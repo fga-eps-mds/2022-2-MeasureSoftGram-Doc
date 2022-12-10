@@ -1,9 +1,10 @@
 # Visão de Produto
 
-|    Data    | Versão |      Descrição da revisão      |      Autor      |
-| :--------: | :----: | :----------------------------: | :-------------: |
-| 07/12/2022 |  1.0   |      Criação do documento      | Ítalo Fernandes |
-| 10/12/2022 |  1.1   | Adição da Joranda e Brainstorm | Ítalo Fernandes |
+|    Data    | Versão |                Descrição da revisão                 |      Autor      |
+| :--------: | :----: | :-------------------------------------------------: | :-------------: |
+| 07/12/2022 |  1.0   |                Criação do documento                 | Ítalo Fernandes |
+| 10/12/2022 |  1.1   |           Adição da Joranda e Brainstorm            | Ítalo Fernandes |
+| 10/12/2022 |  1.2   | Adição da Revisão Técnica, Sequenciador e Canvas MP |   Ítalo Alves   |
 
 ## Introdução
 
@@ -75,7 +76,11 @@ Foram realizadas algumas reuniões para a definição desse artefato:
 - A primeira foi realizada no dia 23/11/22 (19h), via Teams, e durou cerca de 30 minutos.
 - A segunda foi realizada no dia 25/11/22 (17h), via Teams, e durou cerca de 1 hora e 30 minutos.
 
-## Canva MVP
+## Canvas MVP
+
+O Canvas MVP é um quadro visual que auxilia a equipe a alinhar e definir a estratégia do MVP.
+
+![Canvas MP](assets/canvas_mp.png)
 
 ## Referência
 
