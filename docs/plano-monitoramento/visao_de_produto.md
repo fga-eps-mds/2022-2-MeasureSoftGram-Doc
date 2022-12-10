@@ -3,6 +3,7 @@
 | Data | Versão | Descrição da revisão | Autor |
 | :--: | :---: | :------------------: | :----: |
 | 07/12/2022 | 1.0 | Criação do documento | Ítalo Fernandes |
+| 10/12/2022 | 1.1 | Adição da Joranda e Brainstorm | Ítalo Fernandes |
 
 ## Introdução
 
@@ -40,9 +41,18 @@ Nesta etapa para identificar as funcionalidades de um produto, é preciso ideali
 
 ## Jornadas de Usuário
 
+Com base em cada persona e suas novas atualizações, a jornada do usuário também foi atualizada para nova visão do grupo:
+
+![Jornada 1](assets/jornada_Paulo.png)
+![Jornada 2](assets/jornada_Valeria.png)
+![Jornada 3](assets/jornada_Miguel.png)
+![Jornada 4](assets/jornada_Gustavo.png)
 
 ## Brainstorm de Funcionalidades
 
+Essa etapa segue o refinamento de produtos, listas de metas e personas criados anteriormente. Desta forma, pretende-se descobrir as capacidades e necessidades do usuário representadas pelos papéis necessários para atender aos objetivos.
+
+![Brainstorm 1](assets/brainstorm.png)
 
 ## Revisão Técnica (Esforço, Negócio, UX)
 
