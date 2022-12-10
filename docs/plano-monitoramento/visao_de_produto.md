@@ -1,16 +1,15 @@
 # Visão de Produto
 
-| Data | Versão | Descrição da revisão | Autor |
-| :--: | :---: | :------------------: | :----: |
-| 07/12/2022 | 1.0 | Criação do documento | Ítalo Fernandes |
-| 10/12/2022 | 1.1 | Adição da Joranda e Brainstorm | Ítalo Fernandes |
+|    Data    | Versão |      Descrição da revisão      |      Autor      |
+| :--------: | :----: | :----------------------------: | :-------------: |
+| 07/12/2022 |  1.0   |      Criação do documento      | Ítalo Fernandes |
+| 10/12/2022 |  1.1   | Adição da Joranda e Brainstorm | Ítalo Fernandes |
 
 ## Introdução
 
 Para se obter uma visão de produto essencial para o desenvolvimento do projeto, foi utilizado o método Lean Inception proposto por Paulo Carolli. Esse método abrange um workshop colaborativo para alinhar o grupo sobre o MVP (Produto mínimo Viável) que será construído. Sendo assim, foram feitas as seguintes etapas.
 
 ## Kickoff e Agenda
-
 
 ## O Produto É - Não é - Faz - Não Faz
 
@@ -56,12 +55,18 @@ Essa etapa segue o refinamento de produtos, listas de metas e personas criados a
 
 ## Revisão Técnica (Esforço, Negócio, UX)
 
+Essa etapa visa elaborar, reavaliar e normalizar vários recursos propostos durante o brainstorming de recursos, bem como descartar recursos que não fazem sentido para executar neste momento.
+
+![Revisão Técnica](assets/revisao_tecnica.png)
+
+Foram realizadas algumas reuniões para a definição desse artefato:
+
+- A primeira foi realizada no dia 21/11/22 (21h15m), via Teams, e durou cerca de 1 hora e 55 minutos.
+- A segunda foi realizada no dia 25/11/22 (17h), via Teams, e durou cerca de 1 hora e 30 minutos.
 
 ## Sequenciador
 
-
 ## Canva MVP
-
 
 ## Referência
 
