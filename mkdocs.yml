@@ -11,11 +11,12 @@ nav:
       - Agenda e Ferramentas: equipe/agenda-e-ferramentas.md
       - Conhecimento e Disponibilidade: equipe/conhecimento-e-disponibilidade.md
   - Plano e Monitoramento:
-      - Estrutura Análitica do Projeto: plano-monitoramento/EAP.md
-      - Termo de Abertura do Projeto: plano-monitoramento/tap.md
-      - Custos do Projeto: plano-monitoramento/custo_projeto.md
-      - Analise de Riscos: plano-monitoramento/analise_riscos.md
-      - Plano de Qualidade do Produto: plano-monitoramento/plano_de_qualidade.md
+    - Estrutura Análitica do Projeto: plano-monitoramento/EAP.md
+    - Termo de Abertura do Projeto: plano-monitoramento/tap.md
+    - Custos do Projeto: plano-monitoramento/custo_projeto.md
+    - Analise de Riscos: plano-monitoramento/analise_riscos.md
+    - Plano de Qualidade do Produto: plano-monitoramento/plano_de_qualidade.md
+    - Arquitetura do Projeto: plano-monitoramento/documento_de_arquitetura.md
   # - Visão de Produto:
   #   -
   - Contribuição:
