@@ -5,12 +5,19 @@
 | 07/12/2022 |  1.0   |                Criação do documento                 | Ítalo Fernandes |
 | 10/12/2022 |  1.1   |           Adição da Joranda e Brainstorm            | Ítalo Fernandes |
 | 10/12/2022 |  1.2   | Adição da Revisão Técnica, Sequenciador e Canvas MP |   Ítalo Alves   |
+| 12/12/2022 |  1.3   |            Adição do Kickoff e correções            |   Ítalo Alves   |
 
 ## Introdução
 
 Para se obter uma visão de produto essencial para o desenvolvimento do projeto, foi utilizado o método Lean Inception proposto por Paulo Carolli. Esse método abrange um workshop colaborativo para alinhar o grupo sobre o MVP (Produto mínimo Viável) que será construído. Sendo assim, foram feitas as seguintes etapas.
 
 ## Kickoff e Agenda
+
+O Kickoff é uma reunião realizada na fase inicial de um projeto com o intuito de alinhar todos os detalhes entre os envolvidos, o cliente e os membros da equipe, por exemplo.
+
+Nessa etapa foi apresentado o projeto e o propósito principal para que assim pudesse ser definido o objetivo final a ser alcançado.
+
+Foi realizada no dia 02/11/22, via Teams.
 
 ## O Produto É - Não é - Faz - Não Faz
 
@@ -67,7 +74,7 @@ Foram realizadas algumas reuniões para a definição desse artefato:
 
 ## Sequenciador
 
-Essa etapa auxilia na organização e visualizãção das funcionalidades e da sequência de validação incremental do produto.
+Essa etapa auxilia na organização e visualização das funcionalidades e da sequência de validação incremental do produto.
 
 ![Sequenciador](assets/sequenciador.png)
 
