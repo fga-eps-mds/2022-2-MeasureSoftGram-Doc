@@ -4,6 +4,10 @@ repo_url: https://github.com/fga-eps-mds/2022-2-MeasureSoftGram-Doc
 theme:
   name: material
   features: navigation.tabs
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
+  palette:
+    primary: blue grey
 
 nav:
   - Home: index.md
