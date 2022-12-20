@@ -6,7 +6,8 @@
 | 10/12/2022 |  1.1   |             Adição da Joranda e Brainstorm                | Ítalo Fernandes |
 | 10/12/2022 |  1.2   |   Adição da Revisão Técnica, Sequenciador e Canvas MVP    |   Ítalo Alves   |
 | 12/12/2022 |  1.3   |              Adição do Kickoff e correções                |   Ítalo Alves   |
-| 20/12/2022 |  1.4   | Correção da referencia e adição dos padrões de parágrafos | Ítalo Fernandes |
+| 20/12/2022 |  1.4   | Correção da referência e adição dos padrões de parágrafos | Ítalo Fernandes |
+| 20/12/2022 |  1.5   |   Atualização das imagens do Sequenciador e Canvas MVP    | Ítalo Fernandes |
 
 ## Introdução
 
@@ -92,4 +93,4 @@
 
 ## Referência
 
-[1] CAROLI, Paulo. Lean Inception: How to Align People and Build the Right Product. 1 ed. São Paulo: Caroli, 2018.
+> [1] CAROLI, Paulo. Lean Inception: How to Align People and Build the Right Product. 1 ed. São Paulo: Caroli, 2018.
