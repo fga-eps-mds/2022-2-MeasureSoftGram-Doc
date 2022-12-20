@@ -8,6 +8,7 @@
 | 12/12/2022 |  1.3   |              Adição do Kickoff e correções                |   Ítalo Alves   |
 | 20/12/2022 |  1.4   | Correção da referência e adição dos padrões de parágrafos | Ítalo Fernandes |
 | 20/12/2022 |  1.5   |   Atualização das imagens do Sequenciador e Canvas MVP    | Ítalo Fernandes |
+| 20/12/2022 |  1.6   |       Atualização da quarta Persona e sua Jornada         | Ítalo Fernandes |
 
 ## Introdução
 
@@ -46,7 +47,7 @@
 ![Persona 1](assets/persona_Paulo.png "Persona 1: Pesquisador na área de qualidade de software")
 ![Persona 2](assets/persona_Valeria.png "Persona 2: Profissional de Engenharia de Software")
 ![Persona 3](assets/persona_Miguel.png "Persona 3: Desenvolvedor, entusiasta de IA")
-![Persona 4](assets/persona_Gustavo.png "Persona 4: Estudante de TI")
+![Persona 4](assets/persona_Amanda.png "Persona 4: Estudante de TI")
 
 ## Jornadas de Usuário
 
@@ -55,7 +56,7 @@
 ![Jornada 1](assets/jornada_Paulo.png)
 ![Jornada 2](assets/jornada_Valeria.png)
 ![Jornada 3](assets/jornada_Miguel.png)
-![Jornada 4](assets/jornada_Gustavo.png)
+![Jornada 4](assets/jornada_Amanda.png)
 
 ## Brainstorm de Funcionalidades
 
