@@ -21,9 +21,8 @@ nav:
     - Analise de Riscos: plano-monitoramento/analise_riscos.md
     - Plano de Qualidade do Produto: plano-monitoramento/plano_de_qualidade.md
     - Arquitetura do Projeto: plano-monitoramento/documento_de_arquitetura.md
-    - Backlog do Produto: plano-monitoramento/product_backlog.md
-  # - Visão de Produto:
-  #   -
+  - Visão de Produto:
+    - Backlog do Produto: visao-produto/product_backlog.md
   - Contribuição:
       - Como contribuir?: politicas/contribuindo.md
       - Política de Branches: politicas/branches.md
