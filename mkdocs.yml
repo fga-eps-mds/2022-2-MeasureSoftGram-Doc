@@ -19,10 +19,10 @@ nav:
     - Termo de Abertura do Projeto: plano-monitoramento/tap.md
     - Custos do Projeto: plano-monitoramento/custo_projeto.md
     - Analise de Riscos: plano-monitoramento/analise_riscos.md
-    - Visão de Produto: plano-monitoramento/visao_de_produto.md
     - Plano de Qualidade do Produto: plano-monitoramento/plano_de_qualidade.md
     - Arquitetura do Projeto: plano-monitoramento/documento_de_arquitetura.md
   - Visão de Produto:
+    - Lean Inception: visao-produto/lean_inception.md
     - Backlog do Produto: visao-produto/product_backlog.md
   - Contribuição:
       - Como contribuir?: politicas/contribuindo.md

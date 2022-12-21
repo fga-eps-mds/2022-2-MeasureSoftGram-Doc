@@ -1,4 +1,4 @@
-# Visão de Produto
+# Lean Inception
 
 |    Data    | Versão |                  Descrição da revisão                     |      Autor      |
 | :--------: | :----: | :-------------------------------------------------------: | :-------------: |
