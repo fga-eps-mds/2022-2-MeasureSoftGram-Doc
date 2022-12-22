@@ -92,6 +92,17 @@
 
 ![Canvas MP](assets/canvas_mvp.png)
 
+## Resultado 
+
+<p align="justify" style="text-indent: 20px">A uma visualização em tela cheia do resultado completo pode ser encontrada <a href=https://app.mural.co/embed/cbd4c2b0-cc9a-42dc-af19-337f0f8b4aa7>aqui.</a></p>
+
+<iframe src='https://app.mural.co/embed/cbd4c2b0-cc9a-42dc-af19-337f0f8b4aa7'
+        width='100%'
+        height='480px'
+        style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
+        sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
+</iframe>
+
 ## Referência
 
 > [1] CAROLI, Paulo. Lean Inception: How to Align People and Build the Right Product. 1 ed. São Paulo: Caroli, 2018.
