@@ -101,8 +101,8 @@ A definição desse artefato foi realizada por integrantes de grupos anteriores 
 
 <p align="justify" style="text-indent: 20px">Foram realizadas algumas reuniões para a definição desse artefato:</p>
 
-- A primeira foi realizada no dia 21/11/22 (21h15m), via Teams, e durou cerca de 1 hora e 55 minutos.
-- A segunda foi realizada no dia 25/11/22 (17h), via Teams, e durou cerca de 1 hora e 30 minutos.
+- A primeira foi realizada no dia 21/11/22, via Teams, e durou cerca de 1 hora e 55 minutos.
+- A segunda foi realizada no dia 25/11/22, via Teams, e durou cerca de 1 hora e 30 minutos.
 
 ## Sequenciador
 
@@ -112,8 +112,8 @@ A definição desse artefato foi realizada por integrantes de grupos anteriores 
 
 <p align="justify" style="text-indent: 20px">Foram realizadas algumas reuniões para a definição desse artefato:</p>
 
-- A primeira foi realizada no dia 23/11/22 (19h), via Teams, e durou cerca de 30 minutos.
-- A segunda foi realizada no dia 25/11/22 (17h), via Teams, e durou cerca de 1 hora e 30 minutos.
+- A primeira foi realizada no dia 23/11/22, via Teams, e durou cerca de 30 minutos.
+- A segunda foi realizada no dia 25/11/22, via Teams, e durou cerca de 1 hora e 30 minutos.
 
 ## Canvas MVP
 
