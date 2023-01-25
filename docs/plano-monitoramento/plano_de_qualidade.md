@@ -15,7 +15,7 @@
 ## Introdução
 
 <p align="justify" style="text-indent: 20px">
-Não só Escopo, Tempo e Custo influenciam no gerenciamento de projetos de software, mas também os atributos de qualidade. Segundo ISO 9126-1 (2003) [<a href=./#referencia>1</a>], "qualidade é a totalidade de características e critérios de um produto ou serviço que exercem suas habilidades para satisfazer às necessidades declaradas ou envolvidas", mostrando dessa forma a importância dessa característica para o gerenciamento do projeto.
+Não só Escopo, Tempo e Custo influenciam no gerenciamento de projetos de software, mas também os atributos de qualidade. Segundo ISO 25010 (2011) [<a href=./#referencia>1</a>], "qualidade é a totalidade de características e critérios de um produto ou serviço que exercem suas habilidades para satisfazer às necessidades declaradas ou envolvidas", mostrando dessa forma a importância dessa característica para o gerenciamento do projeto.
 </p>
 
 ## Objetivos do Plano de Qualidade
@@ -37,7 +37,7 @@ Com isso, definem-se os principais objetivos desse documento, sendo eles:
 ## Objetivos de qualidade
 
 <p align="justify" style="text-indent: 20px">
-Seguindo os objetivos propostos nas ISO 9126-1 de 2003, os pontos focais da análise de qualidade do projeto serão: a <b>qualidade interna e externa</b> e a <b>qualidade de uso</b>.
+Seguindo os objetivos propostos nas ISO 25010 de 2011, os pontos focais da análise de qualidade do projeto serão: a <b>qualidade interna e externa</b> e a <b>qualidade de uso</b>.
 </p>
 
 - <p align="justify">
@@ -78,7 +78,7 @@ A existência de padrões de software, tem garantido cada vez mais qualidade no 
 Como principal ISO e modelo utilizados no projeto, pode-se citar:
 </p>
 
-- NBR - ISO/IEC 9126-1 [<a href=./#referencia>1</a>]
+- NBR - ISO/IEC 25010 [<a href=./#referencia>1</a>]
 - Modelo de Qualidade Q-Rapids [<a href=./#referencia>2</a>]
 
 <p align="justify" style="text-indent: 20px">
@@ -185,7 +185,7 @@ Existem algumas categorias de manutenção:
 
 ## Referência
 
-> [1] **NBR - ISO/IEC 9126-1**. Software engineering - Product quality - Part 1: Quality model. 2003.
+> [1] **ISO/IEC 25010**. ISO 25000. Software and data quality. 2011. Disponível em: [https://iso25000.com/index.php/en/iso-25000-standards/iso-25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010). Acesso em 21 jan. 2023.
 
 > [2] **Quality-aware Rapid Software Development Project: The Q-Rapids Project**. FRANCH X.; LOPEZ L.; FERNÁNDEZ S. M.; ORIOL M.; RODRÍGUEZ P.; TRENDOWICZ A.
 

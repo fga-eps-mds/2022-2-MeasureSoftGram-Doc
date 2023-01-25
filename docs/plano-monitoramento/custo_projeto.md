@@ -25,29 +25,29 @@ Usando  como referência a reportagem Raio-X do custo por aluno nas universidade
 Utilizando a calculadora de ajuste de inflação do Banco Central do Brasil [<a href=./#referencia>2</a>] para calcular o valor atualizado para o ano de 2022. Para isso foi utilizado o índice de inflação IPCA (IBGE) usando os anos de 2016 e 2022. O resultado foi de R$ 53.140,65, sendo assim o custo mensal de R$ 4.428,39. Considerando que cada aluno cursa em média 6 matérias(360 horas) por semestre, o custo de um aluno por disciplina é de R$ 738,06. Levando em conta que a disciplina que o projeto é desenvolvido possui 60 horas, temos que cada aluno custaria por hora R$ 12,30.
 </p>
 
-<p align="justify" style="text-indent: 20px">Considerando que cada membro do grupo irá trabalhar em média 40 horas por mês no projeto, e que o o projeto tem duração de 90 dias(3 meses). Com 11 integrantes o custo total estimado no desenvolvimento do projeto seja aproximadamente de <b>R$ 5.412,47</b></p>
+<p align="justify" style="text-indent: 20px">Considerando que cada membro do grupo irá trabalhar em média 40 horas por mês no projeto, e que o o projeto tem duração de 90 dias úteis (ou 4 meses). Com 11 integrantes o custo total estimado no desenvolvimento do projeto seja aproximadamente de <b>R$ 5.412,47</b></p>
 
 ## Custo de internet
 
 <p align="justify" style="text-indent: 20px">Considerando que todos os integrantes do time possuem internet banda larga, de pelo menos 100 MBPS, os valores estimados para Brasília foram de:</p>
 
-| Mensal por aluno | Mensal por grupo    | 3 meses      |
+| Mensal por aluno | Mensal por grupo    | 4 meses      |
 | ---------------- | --------------      | -------      |
 | R$ 100.00        | R$ 1100.00          | R$ 3300.00   |
 
 
 ## Custo de água
 
-| Mensal por aluno | Mensal por grupo    | 3 meses      |
+| Mensal por aluno | Mensal por grupo    | 4 meses      |
 | ---------------- | --------------      | -------      |
-| R$ 50.00         | R$ 550.00           | R$ 1650.00   |
+| R$ 50.00         | R$ 550.00           | R$ 2200.00   |
 
 
 ## Custo de Energia
 
-| Mensal por aluno | Mensal por grupo    | 3 meses      |
+| Mensal por aluno | Mensal por grupo    | 4 meses      |
 | ---------------- | --------------      | -------      |
-| R$ 71.00         | R$ 781.00           | R$ 2343.00   |
+| R$ 71.00         | R$ 781.00           | R$ 3124.00   |
 
 ## Custo de equipamentos
 
