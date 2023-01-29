@@ -5,6 +5,7 @@ Versão|Data|Descrição|Autor(es)
 0.1   | 29/01/2023 | Criação do documento | João Pedro
 1.0   | 29/01/2023 | Adição do manual de uso da CLI v1.0.0 | João Pedro
 1.1   | 29/01/2023 | Adição dos comandos existentes na CLI | João Pedro
+1.2   | 29/01/2023 | Adição de vídeo demonstrativo da CLI  | João Pedro
 
 ## 2. Manual de Uso da `CLI`
 
@@ -174,3 +175,10 @@ msgram calculate -h
 
 </center>
 
+## 3. Demonstração de uso da `CLI`
+
+<p align="justify" style="text-indent: 20px">
+    O seguinte vídeo, demonstra a utilização da CLI para cálculo da qualidade do produto MeasureSoftGram:
+</p>
+
+<iframe style="width: 100%; height: 400px" src="https://www.youtube.com/embed/rSzV_5ZTXio" title="MeasureSoftGram - Guia de Uso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
