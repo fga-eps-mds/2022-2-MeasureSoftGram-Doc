@@ -9,8 +9,15 @@ theme:
   palette:
     primary: blue grey
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 nav:
   - Home: index.md
+  - Manuais de Uso:
+    - CLI: manual-de-uso/cli.md
   - Equipe:
       - Agenda e Ferramentas: equipe/agenda-e-ferramentas.md
       - Conhecimento e Disponibilidade: equipe/conhecimento-e-disponibilidade.md
