@@ -10,6 +10,7 @@
 |22/11/2022|1.3|Atualizado link evm| Lucas Melo |
 |25/11/2022|1.4|Correções do documento e melhoria das tabelas| João Pedro Moura, Rafael Cleydson |
 |26/11/2022|2.0|Refatoração do tópico e planilha do EVM| João Pedro Moura, Rafael Cleydson |
+|05/02/2023|2.1|Atualização da planilha e da referência do EVM| João Pedro Moura, Rafael Cleydson |
 
 ## Introdução
 
@@ -79,4 +80,4 @@ Através de cada <i>sprint</i> do projeto, três métricas serão coletadas: Val
 
 > [2] **BCB - Calculadora do cidadão**. Bcb.gov.br. Disponível em: [https://www3.bcb.gov.br/CALCIDADAO/publico/corrigirPorIndice.do?method=corrigirPorIndice](https://www3.bcb.gov.br/CALCIDADAO/publico/corrigirPorIndice.do?method=corrigirPorIndice). Acesso em: 16 nov. 2022.
 
-> [3] **What Is Agile Earned Value Management (EVM)?**. Wrike. Disponível em: [https://www.wrike.com/agile-guide/faq/what-is-agile-evm/](https://www.wrike.com/agile-guide/faq/what-is-agile-evm/). Acesso em: 24 nov. 2022.
+ > [3] **AgileEVM – Earned Value Management in Scrum Projects**. Tamara S.; Brent B.; Thomas B. Proceedings of AGILE 2006 Conference. 2006.

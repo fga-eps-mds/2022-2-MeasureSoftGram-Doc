@@ -10,7 +10,7 @@ Deseja Contribuir? Certifique-se de que está seguindo as políticas do nosso pr
 
 ## Processo de Criação de Issues
 
-1. Verifique se não existe issue que já atenda o que você pretender colocar.
+1. Verifique se não existe issue que já atenda o que você pretender colocar, existem diferentes tipos de issues, o projeto contempla atualmente as issues referentes a novas funcionalidades ou <i>bugfix</i>.
 2. Elabore a issue de acordo com os templates disponíveis em [template de issues](https://github.com/fga-eps-mds/2022-2-MeasureSoftGram-Doc/blob/main/.github/ISSUE_TEMPLATE).
 
 ## Processo de Criação de Pull Requests
